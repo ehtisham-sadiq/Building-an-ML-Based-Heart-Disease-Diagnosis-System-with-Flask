@@ -1,0 +1,1026 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+52,Male,non-anginal pain,125,212,absence,abnormal,168,absence,1,downsloping,2 major vessels,reversable defect,no
+53,Male,non-anginal pain,140,203,presence,normal,155,presence,3.1,upsloping,no major vessel,reversable defect,no
+70,Male,non-anginal pain,145,174,absence,abnormal,125,presence,2.6,upsloping,no major vessel,reversable defect,no
+61,Male,non-anginal pain,148,203,absence,abnormal,161,absence,0,downsloping,1 major vessel,reversable defect,no
+62,Female,non-anginal pain,138,294,presence,abnormal,106,absence,1.9,flat,3 major vessels,fixed defect,no
+58,Female,non-anginal pain,100,248,absence,normal,122,absence,1,flat,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,114,318,absence,abnormal,140,absence,4.4,upsloping,3 major vessels,normal,no
+55,Male,non-anginal pain,160,289,absence,normal,145,presence,0.8,flat,other,reversable defect,no
+46,Male,non-anginal pain,120,249,absence,normal,144,absence,0.8,downsloping,no major vessel,,no
+54,Male,non-anginal pain,122,286,absence,normal,116,presence,3.2,flat,2 major vessels,fixed defect,no
+71,Female,non-anginal pain,112,149,absence,,300,absence,6.6,flat,no major vessel,fixed defect,yes
+43,Female,non-anginal pain,132,341,,normal,136,presence,3,flat,no major vessel,reversable defect,no
+34,Female,atypical angina,118,210,absence,abnormal,192,absence,0.7,downsloping,no major vessel,fixed defect,yes
+51,Male,non-anginal pain,140,298,absence,abnormal,122,presence,4.2,flat,3 major vessels,reversable defect,no
+52,Male,non-anginal pain,128,204,presence,abnormal,156,presence,1,flat,no major vessel,,no
+34,Female,atypical angina,118,210,absence,abnormal,192,absence,0.7,downsloping,no major vessel,fixed defect,yes
+51,Female,typical angina,140,308,absence,normal,142,absence,1.5,downsloping,1 major vessel,fixed defect,yes
+54,Male,non-anginal pain,124,266,absence,normal,109,presence,2.2,flat,1 major vessel,reversable defect,no
+50,Female,atypical angina,120,244,,,162,absence,,downsloping,no major vessel,fixed defect,yes
+58,Male,typical angina,140,500,presence,normal,165,absence,0,downsloping,no major vessel,fixed defect,yes
+60,Male,typical angina,140,185,absence,normal,155,absence,3,unknown,no major vessel,,no
+100,Female,non-anginal pain,106,223,absence,abnormal,142,absence,0.3,downsloping,2 major vessels,fixed defect,yes
+45,Male,non-anginal pain,180,208,absence,normal,148,presence,3,flat,no major vessel,fixed defect,yes
+63,Female,typical angina,135,252,absence,normal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+42,Female,typical angina,120,209,absence,abnormal,290,absence,0,flat,no major vessel,fixed defect,yes
+61,Female,non-anginal pain,145,307,absence,normal,146,presence,1,flat,no major vessel,reversable defect,no
+44,Male,typical angina,130,233,absence,abnormal,179,presence,0.4,downsloping,no major vessel,fixed defect,yes
+58,Female,atypical angina,136,319,presence,normal,152,absence,0,downsloping,2 major vessels,fixed defect,no
+56,Male,typical angina,130,256,presence,normal,142,presence,0.6,flat,1 major vessel,normal,no
+55,Female,non-anginal pain,180,327,absence,abnormal,117,presence,3.4,flat,no major vessel,fixed defect,no
+44,Male,non-anginal pain,120,169,absence,abnormal,,presence,2.8,upsloping,no major vessel,normal,no
+50,Female,atypical angina,120,244,absence,abnormal,162,absence,1.1,downsloping,no major vessel,fixed defect,yes
+57,Male,non-anginal pain,130,131,,abnormal,115,presence,1.2,flat,1 major vessel,reversable defect,no
+70,Male,typical angina,160,269,absence,abnormal,112,presence,2.9,flat,1 major vessel,reversable defect,no
+50,Male,typical angina,129,196,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+46,Male,typical angina,150,231,absence,abnormal,147,absence,3.6,flat,no major vessel,fixed defect,no
+51,Male,asymptomatic,125,213,absence,normal,125,presence,1.4,downsloping,1 major vessel,fixed defect,yes
+59,Male,non-anginal pain,138,271,absence,normal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+64,Male,non-anginal pain,128,263,absence,abnormal,105,presence,0.2,flat,1 major vessel,reversable defect,yes
+57,Male,typical angina,128,229,absence,normal,150,absence,0.4,flat,1 major vessel,reversable defect,no
+65,Female,typical angina,160,360,absence,normal,151,absence,0.8,downsloping,no major vessel,fixed defect,yes
+54,Male,typical angina,120,258,absence,normal,147,absence,0.4,flat,no major vessel,reversable defect,yes
+61,Female,non-anginal pain,130,330,absence,normal,169,absence,0,downsloping,no major vessel,fixed defect,no
+46,Male,non-anginal pain,120,249,absence,normal,144,absence,0.8,downsloping,no major vessel,reversable defect,no
+55,Female,atypical angina,132,342,absence,abnormal,166,absence,1.2,downsloping,no major vessel,fixed defect,yes
+42,Male,non-anginal pain,140,226,absence,abnormal,178,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Male,atypical angina,135,203,absence,abnormal,132,absence,0,flat,no major vessel,normal,yes
+66,Female,non-anginal pain,178,228,presence,abnormal,165,presence,1,flat,2 major vessels,reversable defect,no
+66,Female,typical angina,146,278,absence,normal,152,absence,0,flat,1 major vessel,fixed defect,yes
+60,Male,non-anginal pain,117,230,presence,abnormal,160,presence,1.4,downsloping,2 major vessels,reversable defect,no
+58,Female,asymptomatic,150,283,presence,normal,162,absence,1,downsloping,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,140,241,absence,abnormal,123,presence,0.2,flat,no major vessel,reversable defect,no
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+49,Male,typical angina,120,188,absence,abnormal,139,absence,2,flat,3 major vessels,reversable defect,no
+55,Male,non-anginal pain,140,217,absence,abnormal,111,presence,5.6,upsloping,no major vessel,reversable defect,no
+55,Male,non-anginal pain,140,217,absence,abnormal,111,presence,5.6,upsloping,no major vessel,reversable defect,no
+56,Male,asymptomatic,120,193,absence,normal,162,absence,1.9,flat,no major vessel,reversable defect,yes
+48,Male,atypical angina,130,245,absence,normal,180,absence,0.2,flat,no major vessel,fixed defect,yes
+67,Male,typical angina,152,212,absence,normal,150,absence,0.8,flat,no major vessel,reversable defect,no
+120,,atypical angina,154,232,absence,normal,164,absence,0,downsloping,1 major vessel,fixed defect,no
+29,Male,atypical angina,130,204,absence,normal,202,absence,0,downsloping,no major vessel,fixed defect,yes
+,,typical angina,146,278,absence,normal,152,absence,0,flat,1 major vessel,fixed defect,yes
+67,Male,non-anginal pain,100,299,absence,normal,125,presence,0.9,flat,2 major vessels,fixed defect,no
+59,Male,typical angina,150,212,presence,abnormal,157,absence,1.6,downsloping,no major vessel,fixed defect,yes
+29,Male,atypical angina,130,204,absence,normal,202,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,asymptomatic,170,288,absence,normal,159,absence,0.2,flat,no major vessel,reversable defect,no
+53,Male,typical angina,130,197,presence,normal,152,absence,1.2,upsloping,no major vessel,fixed defect,yes
+42,Male,non-anginal pain,136,315,absence,abnormal,125,presence,1.8,flat,no major vessel,normal,no
+37,Female,typical angina,120,215,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,160,164,absence,normal,145,absence,6.2,upsloping,3 major vessels,reversable defect,no
+59,Male,,170,326,absence,normal,140,presence,3.4,upsloping,no major vessel,reversable defect,no
+61,Male,non-anginal pain,140,207,absence,normal,138,presence,1.9,downsloping,1 major vessel,reversable defect,no
+56,,non-anginal pain,190,249,presence,normal,144,presence,1.2,flat,1 major vessel,fixed defect,no
+59,Male,non-anginal pain,140,177,absence,abnormal,162,presence,0,downsloping,1 major vessel,reversable defect,no
+,Male,non-anginal pain,130,256,presence,normal,150,presence,0,downsloping,2 major vessels,reversable defect,no
+47,Male,typical angina,138,257,absence,normal,156,absence,0,downsloping,no major vessel,fixed defect,yes
+48,Male,typical angina,124,255,presence,abnormal,175,absence,0,downsloping,2 major vessels,fixed defect,yes
+63,Male,non-anginal pain,140,187,absence,normal,144,presence,4,downsloping,2 major vessels,reversable defect,no
+52,Male,atypical angina,134,201,absence,abnormal,158,absence,0.8,downsloping,1 major vessel,fixed defect,yes
+52,Male,atypical angina,134,201,absence,abnormal,158,absence,0.8,downsloping,1 major vessel,fixed defect,yes
+50,Male,typical angina,140,233,absence,abnormal,163,absence,0.6,flat,1 major vessel,reversable defect,no
+49,Male,typical angina,118,149,absence,normal,126,absence,0.8,downsloping,3 major vessels,fixed defect,no
+46,Male,typical angina,150,231,absence,abnormal,147,absence,3.6,flat,no major vessel,fixed defect,no
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+37,Female,typical angina,120,215,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+44,Male,atypical angina,120,600,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,typical angina,140,211,presence,normal,165,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Female,non-anginal pain,174,249,absence,abnormal,143,presence,0,flat,no major vessel,fixed defect,no
+62,Female,non-anginal pain,140,268,absence,normal,160,absence,3.6,upsloping,2 major vessels,fixed defect,no
+68,Male,non-anginal pain,144,193,presence,abnormal,141,absence,3.4,flat,2 major vessels,reversable defect,no
+54,Female,typical angina,108,267,absence,normal,167,absence,0,downsloping,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,124,209,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+63,Male,non-anginal pain,140,187,absence,normal,144,presence,4,downsloping,2 major vessels,reversable defect,no
+44,Male,non-anginal pain,120,169,absence,abnormal,144,presence,2.8,upsloping,no major vessel,normal,no
+62,Male,atypical angina,128,208,presence,normal,140,absence,0,downsloping,no major vessel,fixed defect,yes
+-10,Female,non-anginal pain,138,236,absence,normal,152,presence,0.2,flat,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,128,303,absence,normal,159,absence,0,downsloping,1 major vessel,fixed defect,yes
+53,Male,non-anginal pain,123,282,absence,abnormal,95,presence,2,flat,2 major vessels,reversable defect,no
+65,Male,non-anginal pain,110,248,absence,normal,158,absence,0.6,downsloping,2 major vessels,normal,no
+76,Female,typical angina,140,197,absence,abnormal,116,absence,1.1,flat,no major vessel,fixed defect,yes
+43,Female,typical angina,122,213,absence,abnormal,165,absence,0.2,flat,no major vessel,fixed defect,yes
+57,Male,typical angina,150,126,presence,abnormal,173,absence,0.2,downsloping,1 major vessel,reversable defect,yes
+54,Male,atypical angina,108,309,absence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+47,Male,typical angina,138,257,absence,normal,156,absence,0,downsloping,no major vessel,fixed defect,yes
+52,Male,asymptomatic,118,186,absence,normal,190,absence,0,flat,no major vessel,normal,yes
+47,Male,non-anginal pain,110,275,absence,normal,118,presence,1,flat,1 major vessel,fixed defect,no
+51,Male,non-anginal pain,140,299,absence,abnormal,173,presence,1.6,downsloping,no major vessel,reversable defect,no
+62,Male,atypical angina,120,281,absence,normal,103,absence,1.4,flat,1 major vessel,reversable defect,no
+40,Male,non-anginal pain,152,223,absence,abnormal,181,absence,0,downsloping,no major vessel,reversable defect,no
+54,Male,non-anginal pain,110,206,absence,normal,108,presence,0,flat,1 major vessel,fixed defect,no
+44,Male,non-anginal pain,110,197,absence,normal,177,absence,0,downsloping,1 major vessel,fixed defect,no
+53,Male,non-anginal pain,142,226,absence,normal,111,presence,0,downsloping,no major vessel,reversable defect,yes
+48,Male,non-anginal pain,130,256,presence,normal,150,presence,0,downsloping,2 major vessels,reversable defect,no
+57,Male,non-anginal pain,110,335,absence,abnormal,143,presence,3,flat,1 major vessel,reversable defect,no
+59,Male,typical angina,126,218,presence,abnormal,134,absence,2.2,flat,1 major vessel,normal,no
+61,Female,non-anginal pain,145,307,absence,normal,146,presence,1,flat,no major vessel,reversable defect,no
+63,Male,non-anginal pain,130,254,absence,normal,147,absence,1.4,flat,1 major vessel,reversable defect,no
+43,Male,non-anginal pain,120,177,absence,normal,120,presence,2.5,flat,no major vessel,reversable defect,no
+29,Male,atypical angina,130,204,absence,normal,202,absence,0,downsloping,no major vessel,fixed defect,yes
+42,Male,atypical angina,120,295,absence,abnormal,162,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,atypical angina,108,309,absence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+44,Male,non-anginal pain,120,,absence,abnormal,144,presence,2.8,upsloping,no major vessel,normal,no
+60,Male,non-anginal pain,145,282,absence,normal,142,presence,2.8,flat,2 major vessels,reversable defect,no
+65,Female,typical angina,140,417,presence,normal,157,absence,0.8,downsloping,1 major vessel,fixed defect,yes
+61,Male,non-anginal pain,120,260,absence,abnormal,140,presence,3.6,flat,1 major vessel,reversable defect,no
+60,Female,asymptomatic,150,240,absence,abnormal,171,absence,0.9,downsloping,no major vessel,fixed defect,yes
+66,Male,non-anginal pain,120,302,absence,normal,151,absence,0.4,flat,no major vessel,fixed defect,yes
+53,Male,typical angina,130,197,presence,normal,152,absence,1.2,upsloping,no major vessel,fixed defect,yes
+52,Male,typical angina,138,223,absence,abnormal,169,absence,0,downsloping,,fixed defect,yes
+57,Male,non-anginal pain,140,192,absence,abnormal,148,absence,0.4,flat,no major vessel,normal,yes
+60,Female,asymptomatic,150,240,absence,abnormal,171,absence,0.9,downsloping,no major vessel,fixed defect,yes
+105,Female,typical angina,130,256,absence,normal,149,absence,0.5,downsloping,no major vessel,fixed defect,yes
+41,Male,atypical angina,135,203,absence,abnormal,132,absence,0,flat,no major vessel,normal,yes
+50,Male,typical angina,129,196,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,atypical angina,108,309,absence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+58,Female,non-anginal pain,170,225,presence,normal,146,presence,2.8,flat,2 major vessels,normal,no
+55,Female,atypical angina,132,342,absence,abnormal,166,absence,1.2,downsloping,no major vessel,fixed defect,yes
+64,Female,non-anginal pain,180,325,absence,abnormal,154,presence,0,downsloping,no major vessel,fixed defect,yes
+47,Male,typical angina,138,257,absence,normal,156,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Male,atypical angina,110,235,absence,abnormal,153,absence,0,downsloping,no major vessel,fixed defect,yes
+57,Male,non-anginal pain,152,274,absence,abnormal,88,presence,1.2,flat,1 major vessel,reversable defect,no
+63,Female,non-anginal pain,124,197,absence,abnormal,136,presence,0,flat,no major vessel,fixed defect,no
+61,Male,asymptomatic,134,234,absence,abnormal,145,absence,2.6,flat,2 major vessels,fixed defect,no
+34,Male,asymptomatic,118,182,absence,normal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+47,Male,non-anginal pain,112,204,absence,abnormal,143,absence,0.1,downsloping,no major vessel,fixed defect,yes
+40,Male,non-anginal pain,110,167,absence,normal,114,presence,2,flat,no major vessel,reversable defect,no
+51,Female,typical angina,120,295,absence,normal,157,absence,0.6,downsloping,no major vessel,fixed defect,yes
+41,Male,non-anginal pain,110,172,absence,normal,158,absence,0,downsloping,no major vessel,reversable defect,no
+52,Male,asymptomatic,152,298,presence,abnormal,178,absence,1.2,flat,no major vessel,reversable defect,yes
+39,Male,typical angina,140,321,absence,normal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,114,318,absence,abnormal,140,absence,4.4,upsloping,3 major vessels,normal,no
+54,Male,atypical angina,192,283,absence,normal,195,absence,0,downsloping,1 major vessel,reversable defect,no
+58,Male,non-anginal pain,125,300,absence,normal,171,absence,0,downsloping,2 major vessels,reversable defect,no
+54,Male,typical angina,120,258,absence,normal,147,absence,0.4,flat,no major vessel,reversable defect,yes
+63,Male,non-anginal pain,130,330,presence,normal,132,presence,1.8,downsloping,3 major vessels,reversable defect,no
+54,Male,atypical angina,108,309,absence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+40,Male,asymptomatic,140,199,absence,abnormal,178,presence,1.4,downsloping,no major vessel,reversable defect,yes
+54,Male,typical angina,120,258,absence,normal,147,absence,0.4,flat,no major vessel,reversable defect,yes
+67,Female,typical angina,115,564,absence,normal,160,absence,1.6,flat,no major vessel,reversable defect,yes
+41,Male,atypical angina,120,157,absence,abnormal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+77,Male,non-anginal pain,125,304,absence,normal,162,presence,0,downsloping,3 major vessels,fixed defect,no
+51,Male,typical angina,100,222,absence,abnormal,143,presence,1.2,flat,no major vessel,fixed defect,yes
+77,Male,non-anginal pain,125,304,absence,normal,162,presence,0,downsloping,3 major vessels,fixed defect,no
+48,Male,non-anginal pain,124,274,absence,normal,166,absence,0.5,flat,no major vessel,reversable defect,no
+56,Male,non-anginal pain,125,249,presence,normal,144,presence,1.2,flat,1 major vessel,fixed defect,no
+59,Male,non-anginal pain,170,326,absence,normal,140,presence,3.4,upsloping,no major vessel,reversable defect,no
+56,Male,non-anginal pain,132,184,absence,normal,105,presence,2.1,flat,1 major vessel,normal,no
+57,Female,non-anginal pain,120,354,absence,abnormal,163,presence,0.6,downsloping,no major vessel,fixed defect,yes
+43,Male,typical angina,130,315,absence,abnormal,162,absence,1.9,downsloping,1 major vessel,fixed defect,yes
+45,Female,atypical angina,112,160,absence,abnormal,138,absence,0,flat,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,150,247,absence,abnormal,171,absence,1.5,downsloping,no major vessel,fixed defect,yes
+56,Male,non-anginal pain,130,283,presence,normal,103,presence,1.6,upsloping,no major vessel,reversable defect,no
+56,Male,atypical angina,120,240,absence,abnormal,169,absence,0,upsloping,no major vessel,fixed defect,yes
+39,Female,typical angina,94,199,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,non-anginal pain,110,239,absence,abnormal,126,presence,2.8,flat,1 major vessel,reversable defect,no
+56,Female,non-anginal pain,200,288,presence,normal,133,presence,4,upsloping,2 major vessels,reversable defect,no
+56,Male,non-anginal pain,130,283,presence,normal,103,presence,1.6,upsloping,no major vessel,reversable defect,no
+64,Male,non-anginal pain,120,246,absence,normal,96,presence,2.2,upsloping,1 major vessel,fixed defect,no
+44,Male,non-anginal pain,110,197,absence,normal,177,absence,0,downsloping,1 major vessel,fixed defect,no
+56,Female,non-anginal pain,134,409,absence,normal,150,presence,1.9,flat,2 major vessels,reversable defect,no
+63,Male,non-anginal pain,140,187,absence,normal,144,presence,4,downsloping,2 major vessels,reversable defect,no
+64,Male,asymptomatic,110,211,absence,normal,144,presence,1.8,flat,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,140,293,absence,normal,170,absence,1.2,flat,2 major vessels,reversable defect,no
+42,Male,typical angina,130,180,absence,abnormal,150,absence,0,downsloping,no major vessel,fixed defect,yes
+45,Male,atypical angina,128,308,absence,normal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+57,Male,non-anginal pain,165,289,presence,normal,124,absence,1,flat,3 major vessels,reversable defect,no
+40,Male,non-anginal pain,110,167,absence,normal,114,presence,2,flat,no major vessel,reversable defect,no
+56,Male,non-anginal pain,125,249,presence,normal,144,presence,1.2,flat,1 major vessel,fixed defect,no
+63,Male,non-anginal pain,130,254,absence,normal,147,absence,1.4,flat,1 major vessel,reversable defect,no
+64,Male,typical angina,125,309,absence,abnormal,131,presence,1.8,flat,no major vessel,reversable defect,no
+41,Male,typical angina,112,250,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+56,Male,atypical angina,130,221,absence,normal,163,absence,0,downsloping,no major vessel,reversable defect,yes
+67,Female,typical angina,115,564,absence,normal,160,absence,1.6,flat,no major vessel,reversable defect,yes
+69,Male,asymptomatic,160,234,presence,normal,131,absence,0.1,flat,1 major vessel,fixed defect,yes
+67,Male,non-anginal pain,160,286,absence,normal,108,presence,1.5,flat,3 major vessels,fixed defect,no
+59,Male,typical angina,150,212,presence,abnormal,157,absence,1.6,downsloping,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,100,234,absence,abnormal,156,absence,0.1,downsloping,1 major vessel,reversable defect,no
+45,Male,non-anginal pain,115,260,absence,normal,185,absence,0,downsloping,no major vessel,fixed defect,yes
+60,Female,typical angina,102,318,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,yes
+50,Male,non-anginal pain,144,200,absence,normal,126,presence,0.9,flat,no major vessel,reversable defect,no
+62,Female,non-anginal pain,124,209,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+34,Male,asymptomatic,118,182,absence,normal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+52,Male,asymptomatic,152,298,presence,abnormal,178,absence,1.2,flat,no major vessel,reversable defect,yes
+64,Male,asymptomatic,170,227,absence,normal,155,absence,0.6,flat,no major vessel,reversable defect,yes
+66,Female,typical angina,146,278,absence,normal,152,absence,0,flat,1 major vessel,fixed defect,yes
+42,Male,asymptomatic,148,244,absence,normal,178,absence,0.8,downsloping,2 major vessels,fixed defect,yes
+59,Male,typical angina,126,218,presence,abnormal,134,absence,2.2,flat,1 major vessel,normal,no
+41,Male,typical angina,112,250,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+62,Male,atypical angina,120,281,absence,normal,103,absence,1.4,flat,1 major vessel,reversable defect,no
+42,Male,typical angina,120,240,presence,abnormal,194,absence,0.8,upsloping,no major vessel,reversable defect,yes
+67,Male,non-anginal pain,100,299,absence,normal,125,presence,0.9,flat,2 major vessels,fixed defect,no
+50,Male,non-anginal pain,150,243,absence,normal,128,absence,2.6,flat,no major vessel,reversable defect,no
+43,Male,typical angina,130,315,absence,abnormal,162,absence,1.9,downsloping,1 major vessel,fixed defect,yes
+45,Male,atypical angina,128,308,absence,normal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+49,Male,atypical angina,130,266,absence,abnormal,171,absence,0.6,downsloping,no major vessel,fixed defect,yes
+65,Male,non-anginal pain,135,254,absence,normal,127,absence,2.8,flat,1 major vessel,reversable defect,no
+41,Male,atypical angina,120,157,absence,abnormal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+46,Male,non-anginal pain,140,311,absence,abnormal,120,presence,1.8,flat,2 major vessels,reversable defect,no
+54,Male,non-anginal pain,122,286,absence,normal,116,presence,3.2,flat,2 major vessels,fixed defect,no
+57,Female,atypical angina,130,236,absence,normal,174,absence,0,flat,1 major vessel,fixed defect,no
+63,Male,non-anginal pain,130,254,absence,normal,147,absence,1.4,flat,1 major vessel,reversable defect,no
+64,Male,asymptomatic,110,211,absence,normal,144,presence,1.8,flat,no major vessel,fixed defect,yes
+39,Female,typical angina,94,199,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+51,Male,non-anginal pain,140,261,absence,normal,186,presence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,typical angina,150,232,absence,normal,165,absence,1.6,downsloping,no major vessel,reversable defect,yes
+49,Male,typical angina,118,149,absence,normal,126,absence,0.8,downsloping,3 major vessels,fixed defect,no
+44,Female,typical angina,118,242,absence,abnormal,149,absence,0.3,flat,1 major vessel,fixed defect,yes
+52,Male,atypical angina,128,205,presence,abnormal,184,absence,0,downsloping,no major vessel,fixed defect,yes
+66,Female,non-anginal pain,178,228,presence,abnormal,165,presence,1,flat,2 major vessels,reversable defect,no
+58,Male,non-anginal pain,125,300,absence,normal,171,absence,0,downsloping,2 major vessels,reversable defect,no
+56,Male,atypical angina,120,236,absence,abnormal,178,absence,0.8,downsloping,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,125,258,absence,normal,141,presence,2.8,flat,1 major vessel,reversable defect,no
+41,Female,atypical angina,126,306,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+49,Female,non-anginal pain,130,269,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+64,Male,asymptomatic,170,227,absence,normal,155,absence,0.6,flat,no major vessel,reversable defect,yes
+49,Male,typical angina,118,149,absence,normal,126,absence,0.8,downsloping,3 major vessels,fixed defect,no
+57,Male,atypical angina,124,261,absence,abnormal,141,absence,0.3,downsloping,no major vessel,reversable defect,no
+60,Male,non-anginal pain,117,230,presence,abnormal,160,presence,1.4,downsloping,2 major vessels,reversable defect,no
+62,Female,non-anginal pain,150,244,absence,abnormal,154,presence,1.4,flat,no major vessel,fixed defect,no
+54,Female,atypical angina,132,288,presence,normal,159,presence,0,downsloping,1 major vessel,fixed defect,yes
+67,Male,typical angina,152,212,absence,normal,150,absence,0.8,flat,no major vessel,reversable defect,no
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+60,Male,typical angina,140,185,absence,normal,155,absence,3,flat,no major vessel,fixed defect,no
+51,Male,typical angina,125,245,presence,normal,166,absence,2.4,flat,no major vessel,fixed defect,yes
+44,Male,atypical angina,130,219,absence,normal,188,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,atypical angina,192,283,absence,normal,195,absence,0,downsloping,1 major vessel,reversable defect,no
+46,Male,non-anginal pain,140,311,absence,abnormal,120,presence,1.8,flat,2 major vessels,reversable defect,no
+39,Female,typical angina,138,220,absence,abnormal,152,absence,0,flat,no major vessel,fixed defect,yes
+42,Male,typical angina,130,180,absence,abnormal,150,absence,0,downsloping,no major vessel,fixed defect,yes
+47,Male,non-anginal pain,110,275,absence,normal,118,presence,1,flat,1 major vessel,fixed defect,no
+45,Female,atypical angina,112,160,absence,abnormal,138,absence,0,flat,no major vessel,fixed defect,yes
+55,Male,non-anginal pain,132,353,absence,abnormal,132,presence,1.2,flat,1 major vessel,reversable defect,no
+57,Male,non-anginal pain,165,289,presence,normal,124,absence,1,flat,3 major vessels,reversable defect,no
+35,Male,non-anginal pain,120,198,absence,abnormal,130,presence,1.6,flat,no major vessel,reversable defect,no
+62,Female,non-anginal pain,140,394,absence,normal,157,absence,1.2,flat,no major vessel,fixed defect,yes
+35,Female,non-anginal pain,138,183,absence,abnormal,182,absence,1.4,downsloping,no major vessel,fixed defect,yes
+64,Female,non-anginal pain,180,325,absence,abnormal,154,presence,0,downsloping,no major vessel,fixed defect,yes
+38,Male,asymptomatic,120,231,absence,abnormal,182,presence,3.8,flat,no major vessel,reversable defect,no
+66,Male,non-anginal pain,120,302,absence,normal,151,absence,0.4,flat,no major vessel,fixed defect,yes
+44,Male,typical angina,120,226,absence,abnormal,169,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,typical angina,150,232,absence,normal,165,absence,1.6,downsloping,no major vessel,reversable defect,yes
+48,Male,non-anginal pain,122,222,absence,normal,186,absence,0,downsloping,no major vessel,fixed defect,yes
+55,Female,atypical angina,132,342,absence,abnormal,166,absence,1.2,downsloping,no major vessel,fixed defect,yes
+58,Female,non-anginal pain,170,225,presence,normal,146,presence,2.8,flat,2 major vessels,normal,no
+45,Male,non-anginal pain,104,208,absence,normal,148,presence,3,flat,no major vessel,fixed defect,yes
+53,Male,non-anginal pain,123,282,absence,abnormal,95,presence,2,flat,2 major vessels,reversable defect,no
+67,Male,non-anginal pain,120,237,absence,abnormal,71,absence,1,flat,no major vessel,fixed defect,no
+58,Male,typical angina,132,224,absence,normal,173,absence,3.2,downsloping,2 major vessels,reversable defect,no
+71,Female,typical angina,110,265,presence,normal,130,absence,0,downsloping,1 major vessel,fixed defect,yes
+43,Male,non-anginal pain,110,211,absence,abnormal,161,absence,0,downsloping,no major vessel,reversable defect,yes
+44,Male,atypical angina,120,263,absence,abnormal,173,absence,0,downsloping,no major vessel,reversable defect,yes
+39,Female,typical angina,138,220,absence,abnormal,152,absence,0,flat,no major vessel,fixed defect,yes
+54,Male,non-anginal pain,110,206,absence,normal,108,presence,0,flat,1 major vessel,fixed defect,no
+66,Male,non-anginal pain,160,228,absence,normal,138,absence,2.3,downsloping,no major vessel,normal,yes
+56,Male,non-anginal pain,130,283,presence,normal,103,presence,1.6,upsloping,no major vessel,reversable defect,no
+57,Male,non-anginal pain,132,207,absence,abnormal,168,presence,0,downsloping,no major vessel,reversable defect,yes
+44,Male,atypical angina,130,219,absence,normal,188,absence,0,downsloping,no major vessel,fixed defect,yes
+55,Male,non-anginal pain,160,289,absence,normal,145,presence,0.8,flat,1 major vessel,reversable defect,no
+41,Female,atypical angina,105,198,absence,abnormal,168,absence,0,downsloping,1 major vessel,fixed defect,yes
+45,Female,atypical angina,130,234,absence,normal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+35,Male,atypical angina,122,192,absence,abnormal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Female,atypical angina,130,204,absence,normal,172,absence,1.4,downsloping,no major vessel,fixed defect,yes
+64,Male,asymptomatic,110,211,absence,normal,144,presence,1.8,flat,no major vessel,fixed defect,yes
+58,Male,typical angina,132,224,absence,normal,173,absence,3.2,downsloping,2 major vessels,reversable defect,no
+71,Female,typical angina,110,265,presence,normal,130,absence,0,downsloping,1 major vessel,fixed defect,yes
+64,Female,typical angina,140,313,absence,abnormal,133,absence,0.2,downsloping,no major vessel,reversable defect,yes
+71,Female,atypical angina,160,302,absence,abnormal,162,absence,0.4,downsloping,2 major vessels,fixed defect,yes
+58,Female,typical angina,120,340,absence,abnormal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+40,Male,non-anginal pain,152,223,absence,abnormal,181,absence,0,downsloping,no major vessel,reversable defect,no
+52,Male,typical angina,138,223,absence,abnormal,169,absence,0,downsloping,,fixed defect,yes
+58,Male,non-anginal pain,128,259,absence,normal,130,presence,3,flat,2 major vessels,reversable defect,no
+61,Male,typical angina,150,243,presence,abnormal,137,presence,1,flat,no major vessel,fixed defect,yes
+59,Male,typical angina,150,212,presence,abnormal,157,absence,1.6,downsloping,no major vessel,fixed defect,yes
+56,Female,non-anginal pain,200,288,presence,normal,133,presence,4,upsloping,2 major vessels,reversable defect,no
+67,Male,non-anginal pain,100,299,absence,normal,125,presence,0.9,flat,2 major vessels,fixed defect,no
+67,Male,non-anginal pain,120,237,absence,abnormal,71,absence,1,flat,no major vessel,fixed defect,no
+58,Male,non-anginal pain,150,270,absence,normal,111,presence,0.8,downsloping,no major vessel,reversable defect,no
+35,Male,atypical angina,122,192,absence,abnormal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+52,Male,atypical angina,120,325,absence,abnormal,172,absence,0.2,downsloping,no major vessel,fixed defect,yes
+46,Female,atypical angina,105,204,absence,abnormal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+51,Male,typical angina,94,227,absence,abnormal,154,presence,0,downsloping,1 major vessel,reversable defect,yes
+55,Female,atypical angina,132,342,absence,abnormal,166,absence,1.2,downsloping,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,145,282,absence,normal,142,presence,2.8,flat,2 major vessels,reversable defect,no
+52,Female,typical angina,136,196,absence,normal,169,absence,0.1,flat,no major vessel,fixed defect,yes
+62,Male,non-anginal pain,120,267,absence,abnormal,99,presence,1.8,flat,2 major vessels,reversable defect,no
+44,Female,typical angina,118,242,absence,abnormal,149,absence,0.3,flat,1 major vessel,fixed defect,yes
+44,Male,atypical angina,120,220,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,typical angina,126,218,presence,abnormal,134,absence,2.2,flat,1 major vessel,normal,no
+56,Female,atypical angina,140,294,absence,normal,153,absence,1.3,flat,no major vessel,fixed defect,yes
+61,Male,non-anginal pain,120,260,absence,abnormal,140,presence,3.6,flat,1 major vessel,reversable defect,no
+48,Male,non-anginal pain,130,256,presence,normal,150,presence,0,downsloping,2 major vessels,reversable defect,no
+70,Male,typical angina,160,269,absence,abnormal,112,presence,2.9,flat,1 major vessel,reversable defect,no
+74,Female,atypical angina,120,269,absence,normal,121,presence,0.2,downsloping,1 major vessel,fixed defect,yes
+40,Male,asymptomatic,140,199,absence,abnormal,178,presence,1.4,downsloping,no major vessel,reversable defect,yes
+42,Male,asymptomatic,148,244,absence,normal,178,absence,0.8,downsloping,2 major vessels,fixed defect,yes
+64,Female,typical angina,140,313,absence,abnormal,133,absence,0.2,downsloping,no major vessel,reversable defect,yes
+63,Female,typical angina,135,252,absence,normal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,non-anginal pain,140,177,absence,abnormal,162,presence,0,downsloping,1 major vessel,reversable defect,no
+53,Female,typical angina,128,216,absence,normal,115,absence,0,downsloping,no major vessel,,yes
+53,Female,non-anginal pain,130,264,absence,normal,143,absence,0.4,flat,no major vessel,fixed defect,yes
+48,Female,typical angina,130,275,absence,abnormal,139,absence,0.2,downsloping,no major vessel,fixed defect,yes
+45,Male,non-anginal pain,142,309,absence,normal,147,presence,0,flat,3 major vessels,reversable defect,no
+66,Male,atypical angina,160,246,absence,abnormal,120,presence,0,flat,3 major vessels,normal,no
+48,Male,atypical angina,130,245,absence,normal,180,absence,0.2,flat,no major vessel,fixed defect,yes
+56,Female,atypical angina,140,294,absence,normal,153,absence,1.3,flat,no major vessel,fixed defect,yes
+54,Male,atypical angina,192,283,absence,normal,195,absence,0,downsloping,1 major vessel,reversable defect,no
+57,Male,non-anginal pain,150,276,absence,normal,112,presence,0.6,flat,1 major vessel,normal,no
+70,Male,non-anginal pain,130,322,absence,normal,109,absence,2.4,flat,3 major vessels,fixed defect,no
+53,Female,typical angina,128,216,absence,normal,115,absence,0,downsloping,no major vessel,,yes
+37,Female,typical angina,120,215,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+63,Female,non-anginal pain,108,269,absence,abnormal,169,presence,1.8,flat,2 major vessels,fixed defect,no
+37,Male,typical angina,130,250,absence,abnormal,187,absence,3.5,upsloping,no major vessel,fixed defect,yes
+54,Female,typical angina,110,214,absence,abnormal,158,absence,1.6,flat,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,130,206,absence,normal,132,presence,2.4,flat,2 major vessels,reversable defect,no
+58,Male,non-anginal pain,150,270,absence,normal,111,presence,0.8,downsloping,no major vessel,reversable defect,no
+57,Male,typical angina,150,126,presence,abnormal,173,absence,0.2,downsloping,1 major vessel,reversable defect,yes
+54,Male,typical angina,125,273,absence,normal,152,absence,0.5,upsloping,1 major vessel,fixed defect,yes
+56,Male,typical angina,130,256,presence,normal,142,presence,0.6,flat,1 major vessel,normal,no
+60,Male,non-anginal pain,130,253,absence,abnormal,144,presence,1.4,downsloping,1 major vessel,reversable defect,no
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+44,Male,typical angina,120,226,absence,abnormal,169,absence,0,downsloping,no major vessel,fixed defect,yes
+65,Female,typical angina,155,269,absence,abnormal,148,absence,0.8,downsloping,no major vessel,fixed defect,yes
+52,Male,typical angina,172,199,presence,abnormal,162,absence,0.5,downsloping,no major vessel,reversable defect,yes
+41,Male,atypical angina,120,157,absence,abnormal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+66,Male,atypical angina,160,246,absence,abnormal,120,presence,0,flat,3 major vessels,normal,no
+50,Male,non-anginal pain,150,243,absence,normal,128,absence,2.6,flat,no major vessel,reversable defect,no
+54,Female,typical angina,108,267,absence,normal,167,absence,0,downsloping,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,132,247,presence,normal,143,presence,0.1,flat,,reversable defect,no
+62,Female,typical angina,130,263,absence,abnormal,97,absence,1.2,flat,1 major vessel,reversable defect,no
+66,Male,non-anginal pain,120,302,absence,normal,151,absence,0.4,flat,no major vessel,fixed defect,yes
+50,Male,non-anginal pain,144,200,absence,normal,126,presence,0.9,flat,no major vessel,reversable defect,no
+57,Male,non-anginal pain,110,335,absence,abnormal,143,presence,3,flat,1 major vessel,reversable defect,no
+57,Male,non-anginal pain,110,201,absence,abnormal,126,presence,1.5,flat,no major vessel,normal,yes
+57,Male,atypical angina,124,261,absence,abnormal,141,absence,0.3,downsloping,no major vessel,reversable defect,no
+46,Female,non-anginal pain,138,243,absence,normal,152,presence,0,flat,no major vessel,fixed defect,yes
+59,Male,non-anginal pain,164,176,presence,normal,90,absence,1,flat,2 major vessels,normal,no
+67,Male,non-anginal pain,160,286,absence,normal,108,presence,1.5,flat,3 major vessels,fixed defect,no
+59,Male,asymptomatic,134,204,absence,abnormal,162,absence,0.8,downsloping,2 major vessels,fixed defect,no
+53,Female,typical angina,128,216,absence,normal,115,absence,0,downsloping,no major vessel,,yes
+48,Male,non-anginal pain,122,222,absence,normal,186,absence,0,downsloping,no major vessel,fixed defect,yes
+62,Male,typical angina,130,231,absence,abnormal,146,absence,1.8,flat,3 major vessels,reversable defect,yes
+43,Female,typical angina,122,213,absence,abnormal,165,absence,0.2,flat,no major vessel,fixed defect,yes
+53,Male,typical angina,130,246,presence,normal,173,absence,0,downsloping,3 major vessels,fixed defect,yes
+57,Female,atypical angina,130,236,absence,normal,174,absence,0,flat,1 major vessel,fixed defect,no
+53,Male,typical angina,130,246,presence,normal,173,absence,0,downsloping,3 major vessels,fixed defect,yes
+58,Male,typical angina,112,230,absence,normal,165,absence,2.5,flat,1 major vessel,reversable defect,no
+48,Male,atypical angina,110,229,absence,abnormal,168,absence,1,upsloping,no major vessel,reversable defect,no
+58,Male,typical angina,105,240,absence,normal,154,presence,0.6,flat,no major vessel,reversable defect,yes
+51,Male,typical angina,110,175,absence,abnormal,123,absence,0.6,downsloping,no major vessel,fixed defect,yes
+43,Female,non-anginal pain,132,341,presence,normal,136,presence,3,flat,no major vessel,reversable defect,no
+55,Male,non-anginal pain,132,353,absence,abnormal,132,presence,1.2,flat,1 major vessel,reversable defect,no
+54,Female,typical angina,110,214,absence,abnormal,158,absence,1.6,flat,no major vessel,fixed defect,yes
+58,Male,atypical angina,120,284,absence,normal,160,absence,1.8,flat,no major vessel,fixed defect,no
+46,Female,typical angina,142,177,absence,normal,160,presence,1.4,upsloping,no major vessel,fixed defect,yes
+66,Male,non-anginal pain,160,228,absence,normal,138,absence,2.3,downsloping,no major vessel,normal,yes
+59,Male,atypical angina,140,221,absence,abnormal,164,presence,0,downsloping,no major vessel,fixed defect,yes
+64,Female,non-anginal pain,130,303,absence,abnormal,122,absence,2,flat,2 major vessels,fixed defect,yes
+67,Male,non-anginal pain,120,237,absence,abnormal,71,absence,1,flat,no major vessel,fixed defect,no
+52,Male,asymptomatic,118,186,absence,normal,190,absence,0,flat,no major vessel,normal,yes
+58,Male,non-anginal pain,146,218,absence,abnormal,105,absence,2,flat,1 major vessel,reversable defect,no
+58,Male,typical angina,132,224,absence,normal,173,absence,3.2,downsloping,2 major vessels,reversable defect,no
+59,Male,non-anginal pain,110,239,absence,normal,142,presence,1.2,flat,1 major vessel,reversable defect,no
+58,Male,non-anginal pain,150,270,absence,normal,111,presence,0.8,downsloping,no major vessel,reversable defect,no
+35,Male,non-anginal pain,126,282,absence,normal,156,presence,0,downsloping,no major vessel,reversable defect,no
+51,Male,typical angina,110,175,absence,abnormal,123,absence,0.6,downsloping,no major vessel,fixed defect,yes
+42,Female,typical angina,120,209,absence,abnormal,173,absence,0,flat,no major vessel,fixed defect,yes
+77,Male,non-anginal pain,125,304,absence,normal,162,presence,0,downsloping,3 major vessels,fixed defect,no
+64,Male,non-anginal pain,120,246,absence,normal,96,presence,2.2,upsloping,1 major vessel,fixed defect,no
+63,Male,asymptomatic,145,233,presence,normal,150,absence,2.3,upsloping,no major vessel,normal,yes
+58,Female,atypical angina,136,319,presence,normal,152,absence,0,downsloping,2 major vessels,fixed defect,no
+45,Male,asymptomatic,110,264,absence,abnormal,132,absence,1.2,flat,no major vessel,reversable defect,no
+51,Male,typical angina,110,175,absence,abnormal,123,absence,0.6,downsloping,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,160,164,absence,normal,145,absence,6.2,upsloping,3 major vessels,reversable defect,no
+63,Male,non-anginal pain,130,330,presence,normal,132,presence,1.8,downsloping,3 major vessels,reversable defect,no
+66,Female,typical angina,146,278,absence,normal,152,absence,0,flat,1 major vessel,fixed defect,yes
+68,Male,typical angina,180,274,presence,normal,150,presence,1.6,flat,no major vessel,reversable defect,no
+40,Male,non-anginal pain,110,167,absence,normal,114,presence,2,flat,no major vessel,reversable defect,no
+66,Male,non-anginal pain,160,228,absence,normal,138,absence,2.3,downsloping,no major vessel,normal,yes
+63,Male,asymptomatic,145,233,presence,normal,150,absence,2.3,upsloping,no major vessel,normal,yes
+49,Male,typical angina,120,188,absence,abnormal,139,absence,2,flat,3 major vessels,reversable defect,no
+71,Female,non-anginal pain,112,149,absence,abnormal,125,absence,1.6,flat,no major vessel,fixed defect,yes
+70,Male,atypical angina,156,245,absence,normal,143,absence,0,downsloping,no major vessel,fixed defect,yes
+46,Female,atypical angina,105,204,absence,abnormal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+61,Male,non-anginal pain,140,207,absence,normal,138,presence,1.9,downsloping,1 major vessel,reversable defect,no
+56,Male,typical angina,130,256,presence,normal,142,presence,0.6,flat,1 major vessel,normal,no
+58,Male,typical angina,140,211,presence,normal,165,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,100,234,absence,abnormal,156,absence,0.1,downsloping,1 major vessel,reversable defect,no
+46,Female,non-anginal pain,138,243,absence,normal,152,presence,0,flat,no major vessel,fixed defect,yes
+46,Male,typical angina,150,231,absence,abnormal,147,absence,3.6,flat,no major vessel,fixed defect,no
+41,Female,atypical angina,105,198,absence,abnormal,168,absence,0,downsloping,1 major vessel,fixed defect,yes
+56,Male,non-anginal pain,125,249,presence,normal,144,presence,1.2,flat,1 major vessel,fixed defect,no
+57,Male,non-anginal pain,150,276,absence,normal,112,presence,0.6,flat,1 major vessel,normal,no
+70,Male,non-anginal pain,130,322,absence,normal,109,absence,2.4,flat,3 major vessels,fixed defect,no
+59,Male,asymptomatic,170,288,absence,normal,159,absence,0.2,flat,no major vessel,reversable defect,no
+41,Female,atypical angina,130,204,absence,normal,172,absence,1.4,downsloping,no major vessel,fixed defect,yes
+54,Male,typical angina,125,273,absence,normal,152,absence,0.5,upsloping,1 major vessel,fixed defect,yes
+52,Male,typical angina,138,223,absence,abnormal,169,absence,0,downsloping,,fixed defect,yes
+62,Female,non-anginal pain,124,209,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+65,Female,typical angina,160,360,absence,normal,151,absence,0.8,downsloping,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,128,303,absence,normal,159,absence,0,downsloping,1 major vessel,fixed defect,yes
+42,Female,non-anginal pain,102,265,absence,normal,122,absence,0.6,flat,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,120,354,absence,abnormal,163,presence,0.6,downsloping,no major vessel,fixed defect,yes
+58,Female,atypical angina,136,319,presence,normal,152,absence,0,downsloping,2 major vessels,fixed defect,no
+45,Male,non-anginal pain,142,309,absence,normal,147,presence,0,flat,3 major vessels,reversable defect,no
+51,Female,non-anginal pain,130,305,absence,abnormal,142,presence,1.2,flat,no major vessel,reversable defect,no
+54,Female,typical angina,160,201,absence,abnormal,163,absence,0,downsloping,1 major vessel,fixed defect,yes
+57,Male,typical angina,150,168,absence,abnormal,174,absence,1.6,downsloping,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,132,247,presence,normal,143,presence,0.1,flat,,reversable defect,no
+47,Male,typical angina,108,243,absence,abnormal,152,absence,0,downsloping,no major vessel,fixed defect,no
+67,Male,typical angina,152,212,absence,normal,150,absence,0.8,flat,no major vessel,reversable defect,no
+65,Female,non-anginal pain,150,225,absence,normal,114,absence,1,flat,3 major vessels,reversable defect,no
+60,Female,typical angina,102,318,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,yes
+37,Male,typical angina,130,250,absence,abnormal,187,absence,3.5,upsloping,no major vessel,fixed defect,yes
+41,Female,typical angina,112,268,absence,normal,172,presence,0,downsloping,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,120,354,absence,abnormal,163,presence,0.6,downsloping,no major vessel,fixed defect,yes
+59,Female,non-anginal pain,174,249,absence,abnormal,143,presence,0,flat,no major vessel,fixed defect,no
+67,Male,non-anginal pain,120,229,absence,normal,129,presence,2.6,flat,2 major vessels,reversable defect,no
+47,Male,typical angina,130,253,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,atypical angina,120,284,absence,normal,160,absence,1.8,flat,no major vessel,fixed defect,no
+62,Female,non-anginal pain,150,244,absence,abnormal,154,presence,1.4,flat,no major vessel,fixed defect,no
+60,Male,non-anginal pain,140,293,absence,normal,170,absence,1.2,flat,2 major vessels,reversable defect,no
+57,Male,non-anginal pain,152,274,absence,abnormal,88,presence,1.2,flat,1 major vessel,reversable defect,no
+57,Male,typical angina,150,168,absence,abnormal,174,absence,1.6,downsloping,no major vessel,fixed defect,yes
+47,Male,typical angina,130,253,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+52,Male,atypical angina,128,205,presence,abnormal,184,absence,0,downsloping,no major vessel,fixed defect,yes
+53,Male,typical angina,130,246,presence,normal,173,absence,0,downsloping,3 major vessels,fixed defect,yes
+55,Male,non-anginal pain,160,289,absence,normal,145,presence,0.8,flat,1 major vessel,reversable defect,no
+51,Female,typical angina,120,295,absence,normal,157,absence,0.6,downsloping,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,112,230,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,no
+63,Female,non-anginal pain,150,407,absence,normal,154,absence,4,flat,3 major vessels,reversable defect,no
+49,Female,atypical angina,134,271,absence,abnormal,162,absence,0,flat,no major vessel,fixed defect,yes
+66,Female,non-anginal pain,178,228,presence,abnormal,165,presence,1,flat,2 major vessels,reversable defect,no
+49,Female,atypical angina,134,271,absence,abnormal,162,absence,0,flat,no major vessel,fixed defect,yes
+65,Female,non-anginal pain,150,225,absence,normal,114,absence,1,flat,3 major vessels,reversable defect,no
+69,Male,asymptomatic,160,234,presence,normal,131,absence,0.1,flat,1 major vessel,fixed defect,yes
+47,Male,typical angina,108,243,absence,abnormal,152,absence,0,downsloping,no major vessel,fixed defect,no
+39,Female,typical angina,138,220,absence,abnormal,152,absence,0,flat,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,150,247,absence,abnormal,171,absence,1.5,downsloping,no major vessel,fixed defect,yes
+51,Male,non-anginal pain,140,261,absence,normal,186,presence,0,downsloping,no major vessel,fixed defect,yes
+69,Male,typical angina,140,254,absence,normal,146,absence,2,flat,3 major vessels,reversable defect,no
+48,Male,typical angina,124,255,presence,abnormal,175,absence,0,downsloping,2 major vessels,fixed defect,yes
+52,Male,asymptomatic,118,186,absence,normal,190,absence,0,flat,no major vessel,normal,yes
+43,Male,non-anginal pain,110,211,absence,abnormal,161,absence,0,downsloping,no major vessel,reversable defect,yes
+67,Female,typical angina,115,564,absence,normal,160,absence,1.6,flat,no major vessel,reversable defect,yes
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+44,Male,atypical angina,130,219,absence,normal,188,absence,0,downsloping,no major vessel,fixed defect,yes
+47,Male,non-anginal pain,110,275,absence,normal,118,presence,1,flat,1 major vessel,fixed defect,no
+61,Male,typical angina,150,243,presence,abnormal,137,presence,1,flat,no major vessel,fixed defect,yes
+67,Male,non-anginal pain,160,286,absence,normal,108,presence,1.5,flat,3 major vessels,fixed defect,no
+60,Female,asymptomatic,150,240,absence,abnormal,171,absence,0.9,downsloping,no major vessel,fixed defect,yes
+64,Female,typical angina,140,313,absence,abnormal,133,absence,0.2,downsloping,no major vessel,reversable defect,yes
+58,Female,non-anginal pain,130,197,absence,abnormal,131,absence,0.6,flat,no major vessel,fixed defect,yes
+41,Male,typical angina,130,214,absence,normal,168,absence,2,flat,no major vessel,fixed defect,yes
+48,Male,atypical angina,110,229,absence,abnormal,168,absence,1,upsloping,no major vessel,reversable defect,no
+57,Male,typical angina,150,126,presence,abnormal,173,absence,0.2,downsloping,1 major vessel,reversable defect,yes
+57,Male,non-anginal pain,165,289,presence,normal,124,absence,1,flat,3 major vessels,reversable defect,no
+57,Male,typical angina,128,229,absence,normal,150,absence,0.4,flat,1 major vessel,reversable defect,no
+39,Male,typical angina,140,321,absence,normal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,128,216,absence,normal,131,presence,2.2,flat,3 major vessels,reversable defect,no
+51,Female,non-anginal pain,130,305,absence,abnormal,142,presence,1.2,flat,no major vessel,reversable defect,no
+63,Female,non-anginal pain,150,407,absence,normal,154,absence,4,flat,3 major vessels,reversable defect,no
+51,Male,non-anginal pain,140,298,absence,abnormal,122,presence,4.2,flat,3 major vessels,reversable defect,no
+35,Male,atypical angina,122,192,absence,abnormal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+65,Male,non-anginal pain,110,248,absence,normal,158,absence,0.6,downsloping,2 major vessels,normal,no
+62,Male,atypical angina,120,281,absence,normal,103,absence,1.4,flat,1 major vessel,reversable defect,no
+41,Male,non-anginal pain,110,172,absence,normal,158,absence,0,downsloping,no major vessel,reversable defect,no
+65,Male,non-anginal pain,135,254,absence,normal,127,absence,2.8,flat,1 major vessel,reversable defect,no
+54,Female,atypical angina,132,288,presence,normal,159,presence,0,downsloping,1 major vessel,fixed defect,yes
+61,Male,typical angina,150,243,presence,abnormal,137,presence,1,flat,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,128,303,absence,normal,159,absence,0,downsloping,1 major vessel,fixed defect,yes
+57,Male,typical angina,150,168,absence,abnormal,174,absence,1.6,downsloping,no major vessel,fixed defect,yes
+64,Male,typical angina,125,309,absence,abnormal,131,presence,1.8,flat,no major vessel,reversable defect,no
+55,Male,non-anginal pain,132,353,absence,abnormal,132,presence,1.2,flat,1 major vessel,reversable defect,no
+51,Male,typical angina,125,245,presence,normal,166,absence,2.4,flat,no major vessel,fixed defect,yes
+59,Male,non-anginal pain,135,234,absence,abnormal,161,absence,0.5,flat,no major vessel,reversable defect,yes
+68,Male,typical angina,180,274,presence,normal,150,presence,1.6,flat,no major vessel,reversable defect,no
+57,Male,atypical angina,154,232,absence,normal,164,absence,0,downsloping,1 major vessel,fixed defect,no
+54,Male,non-anginal pain,140,239,absence,abnormal,160,absence,1.2,downsloping,no major vessel,fixed defect,yes
+46,Female,typical angina,142,177,absence,normal,160,presence,1.4,upsloping,no major vessel,fixed defect,yes
+71,Female,non-anginal pain,112,149,absence,abnormal,125,absence,1.6,flat,no major vessel,fixed defect,yes
+35,Female,non-anginal pain,138,183,absence,abnormal,182,absence,1.4,downsloping,no major vessel,fixed defect,yes
+46,Female,typical angina,142,177,absence,normal,160,presence,1.4,upsloping,no major vessel,fixed defect,yes
+45,Female,atypical angina,130,234,absence,normal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+47,Male,typical angina,108,243,absence,abnormal,152,absence,0,downsloping,no major vessel,fixed defect,no
+44,Female,typical angina,118,242,absence,abnormal,149,absence,0.3,flat,1 major vessel,fixed defect,yes
+61,Male,non-anginal pain,120,260,absence,abnormal,140,presence,3.6,flat,1 major vessel,reversable defect,no
+41,Female,atypical angina,130,204,absence,normal,172,absence,1.4,downsloping,no major vessel,fixed defect,yes
+56,Female,non-anginal pain,200,288,presence,normal,133,presence,4,upsloping,2 major vessels,reversable defect,no
+55,Female,non-anginal pain,180,327,absence,abnormal,117,presence,3.4,flat,no major vessel,fixed defect,no
+54,Female,atypical angina,132,288,presence,normal,159,presence,0,downsloping,1 major vessel,fixed defect,yes
+43,Male,non-anginal pain,120,177,absence,normal,120,presence,2.5,flat,no major vessel,reversable defect,no
+44,Male,non-anginal pain,112,290,absence,normal,153,absence,0,downsloping,1 major vessel,fixed defect,no
+54,Male,non-anginal pain,110,206,absence,normal,108,presence,0,flat,1 major vessel,fixed defect,no
+44,Male,atypical angina,120,220,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+49,Male,typical angina,120,188,absence,abnormal,139,absence,2,flat,3 major vessels,reversable defect,no
+60,Male,non-anginal pain,130,206,absence,normal,132,presence,2.4,flat,2 major vessels,reversable defect,no
+41,Female,atypical angina,105,198,absence,abnormal,168,absence,0,downsloping,1 major vessel,fixed defect,yes
+49,Male,typical angina,120,188,absence,abnormal,139,absence,2,flat,3 major vessels,reversable defect,no
+61,Male,non-anginal pain,148,203,absence,abnormal,161,absence,0,downsloping,1 major vessel,reversable defect,no
+59,Male,non-anginal pain,140,177,absence,abnormal,162,presence,0,downsloping,1 major vessel,reversable defect,no
+58,Male,atypical angina,125,220,absence,abnormal,144,absence,0.4,flat,,reversable defect,yes
+67,Female,typical angina,152,277,absence,abnormal,172,absence,0,downsloping,1 major vessel,fixed defect,yes
+61,Male,non-anginal pain,148,203,absence,abnormal,161,absence,0,downsloping,1 major vessel,reversable defect,no
+58,Male,typical angina,112,230,absence,normal,165,absence,2.5,flat,1 major vessel,reversable defect,no
+51,Female,typical angina,130,256,absence,normal,149,absence,0.5,downsloping,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,160,164,absence,normal,145,absence,6.2,upsloping,3 major vessels,reversable defect,no
+62,Female,non-anginal pain,124,209,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,asymptomatic,178,270,absence,normal,145,absence,4.2,upsloping,no major vessel,reversable defect,yes
+69,Male,asymptomatic,160,234,presence,normal,131,absence,0.1,flat,1 major vessel,fixed defect,yes
+60,Female,non-anginal pain,150,258,absence,normal,157,absence,2.6,flat,2 major vessels,reversable defect,no
+65,Female,typical angina,155,269,absence,abnormal,148,absence,0.8,downsloping,no major vessel,fixed defect,yes
+63,Female,non-anginal pain,124,197,absence,abnormal,136,presence,0,flat,no major vessel,fixed defect,no
+53,Female,non-anginal pain,138,234,absence,normal,160,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Female,typical angina,108,267,absence,normal,167,absence,0,downsloping,no major vessel,fixed defect,yes
+76,Female,typical angina,140,197,absence,abnormal,116,absence,1.1,flat,no major vessel,fixed defect,yes
+50,Female,typical angina,120,219,absence,abnormal,158,absence,1.6,flat,no major vessel,fixed defect,yes
+52,Male,atypical angina,120,325,absence,abnormal,172,absence,0.2,downsloping,no major vessel,fixed defect,yes
+46,Male,non-anginal pain,120,249,absence,normal,144,absence,0.8,downsloping,no major vessel,reversable defect,no
+64,Male,asymptomatic,170,227,absence,normal,155,absence,0.6,flat,no major vessel,reversable defect,yes
+58,Male,non-anginal pain,128,259,absence,normal,130,presence,3,flat,2 major vessels,reversable defect,no
+44,Male,typical angina,140,235,absence,normal,180,absence,0,downsloping,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,140,394,absence,normal,157,absence,1.2,flat,no major vessel,fixed defect,yes
+59,Male,asymptomatic,134,204,absence,abnormal,162,absence,0.8,downsloping,2 major vessels,fixed defect,no
+54,Male,typical angina,125,273,absence,normal,152,absence,0.5,upsloping,1 major vessel,fixed defect,yes
+48,Male,atypical angina,110,229,absence,abnormal,168,absence,1,upsloping,no major vessel,reversable defect,no
+70,Male,non-anginal pain,130,322,absence,normal,109,absence,2.4,flat,3 major vessels,fixed defect,no
+67,Female,non-anginal pain,106,223,absence,abnormal,142,absence,0.3,downsloping,2 major vessels,fixed defect,yes
+51,Female,typical angina,120,295,absence,normal,157,absence,0.6,downsloping,no major vessel,fixed defect,yes
+68,Male,typical angina,118,277,absence,abnormal,151,absence,1,downsloping,1 major vessel,reversable defect,yes
+69,Male,typical angina,140,254,absence,normal,146,absence,2,flat,3 major vessels,reversable defect,no
+54,Male,non-anginal pain,122,286,absence,normal,116,presence,3.2,flat,2 major vessels,fixed defect,no
+43,Female,non-anginal pain,132,341,presence,normal,136,presence,3,flat,no major vessel,reversable defect,no
+53,Male,typical angina,130,197,presence,normal,152,absence,1.2,upsloping,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,100,234,absence,abnormal,156,absence,0.1,downsloping,1 major vessel,reversable defect,no
+67,Male,non-anginal pain,125,254,presence,abnormal,163,absence,0.2,flat,2 major vessels,reversable defect,no
+59,Male,non-anginal pain,140,177,absence,abnormal,162,presence,0,downsloping,1 major vessel,reversable defect,no
+48,Male,non-anginal pain,122,222,absence,normal,186,absence,0,downsloping,no major vessel,fixed defect,yes
+39,Female,typical angina,94,199,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+67,Male,non-anginal pain,120,237,absence,abnormal,71,absence,1,flat,no major vessel,fixed defect,no
+58,Female,non-anginal pain,130,197,absence,abnormal,131,absence,0.6,flat,no major vessel,fixed defect,yes
+65,Female,typical angina,155,269,absence,abnormal,148,absence,0.8,downsloping,no major vessel,fixed defect,yes
+42,Female,typical angina,120,209,absence,abnormal,173,absence,0,flat,no major vessel,fixed defect,yes
+44,Male,non-anginal pain,112,290,absence,normal,153,absence,0,downsloping,1 major vessel,fixed defect,no
+56,Male,non-anginal pain,132,184,absence,normal,105,presence,2.1,flat,1 major vessel,normal,no
+53,Female,non-anginal pain,138,234,absence,normal,160,absence,0,downsloping,no major vessel,fixed defect,yes
+50,Female,non-anginal pain,110,254,absence,normal,159,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Male,typical angina,130,214,absence,normal,168,absence,2,flat,no major vessel,fixed defect,yes
+54,Female,typical angina,160,201,absence,abnormal,163,absence,0,downsloping,1 major vessel,fixed defect,yes
+42,Male,typical angina,120,240,presence,abnormal,194,absence,0.8,upsloping,no major vessel,reversable defect,yes
+54,Female,typical angina,135,304,presence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,145,282,absence,normal,142,presence,2.8,flat,2 major vessels,reversable defect,no
+34,Male,asymptomatic,118,182,absence,normal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+44,Male,non-anginal pain,112,290,absence,normal,153,absence,0,downsloping,1 major vessel,fixed defect,no
+60,Male,non-anginal pain,125,258,absence,normal,141,presence,2.8,flat,1 major vessel,reversable defect,no
+43,Male,non-anginal pain,150,247,absence,abnormal,171,absence,1.5,downsloping,no major vessel,fixed defect,yes
+52,Male,asymptomatic,152,298,presence,abnormal,178,absence,1.2,flat,no major vessel,reversable defect,yes
+70,Male,non-anginal pain,130,322,absence,normal,109,absence,2.4,flat,3 major vessels,fixed defect,no
+62,Female,non-anginal pain,140,394,absence,normal,157,absence,1.2,flat,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,146,218,absence,abnormal,105,absence,2,flat,1 major vessel,reversable defect,no
+46,Male,atypical angina,101,197,presence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+44,Male,typical angina,140,235,absence,normal,180,absence,0,downsloping,no major vessel,fixed defect,yes
+55,Male,atypical angina,130,262,absence,abnormal,155,absence,0,downsloping,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,120,177,absence,normal,120,presence,2.5,flat,no major vessel,reversable defect,no
+55,Male,non-anginal pain,132,353,absence,abnormal,132,presence,1.2,flat,1 major vessel,reversable defect,no
+40,Male,asymptomatic,140,199,absence,abnormal,178,presence,1.4,downsloping,no major vessel,reversable defect,yes
+64,Male,typical angina,125,309,absence,abnormal,131,presence,1.8,flat,no major vessel,reversable defect,no
+59,Male,non-anginal pain,164,176,presence,normal,90,absence,1,flat,2 major vessels,normal,no
+61,Female,non-anginal pain,145,307,absence,normal,146,presence,1,flat,no major vessel,reversable defect,no
+54,Male,non-anginal pain,122,286,absence,normal,116,presence,3.2,flat,2 major vessels,fixed defect,no
+74,Female,atypical angina,120,269,absence,normal,121,presence,0.2,downsloping,1 major vessel,fixed defect,yes
+63,Female,non-anginal pain,108,269,absence,abnormal,169,presence,1.8,flat,2 major vessels,fixed defect,no
+70,Male,typical angina,160,269,absence,abnormal,112,presence,2.9,flat,1 major vessel,reversable defect,no
+63,Female,non-anginal pain,108,269,absence,abnormal,169,presence,1.8,flat,2 major vessels,fixed defect,no
+64,Male,non-anginal pain,145,212,absence,normal,132,absence,2,flat,2 major vessels,normal,no
+61,Male,non-anginal pain,148,203,absence,abnormal,161,absence,0,downsloping,1 major vessel,reversable defect,no
+59,Male,atypical angina,140,221,absence,abnormal,164,presence,0,downsloping,no major vessel,fixed defect,yes
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+58,Male,atypical angina,120,284,absence,normal,160,absence,1.8,flat,no major vessel,fixed defect,no
+63,Female,atypical angina,140,195,absence,abnormal,179,absence,0,downsloping,2 major vessels,fixed defect,yes
+62,Female,typical angina,130,263,absence,abnormal,97,absence,1.2,flat,1 major vessel,reversable defect,no
+46,Male,non-anginal pain,140,311,absence,abnormal,120,presence,1.8,flat,2 major vessels,reversable defect,no
+58,Female,typical angina,120,340,absence,abnormal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+63,Female,atypical angina,140,195,absence,abnormal,179,absence,0,downsloping,2 major vessels,fixed defect,yes
+47,Male,typical angina,130,253,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+71,Female,typical angina,110,265,presence,normal,130,absence,0,downsloping,1 major vessel,fixed defect,yes
+66,Male,non-anginal pain,112,212,absence,normal,132,presence,0.1,downsloping,1 major vessel,fixed defect,no
+42,Male,non-anginal pain,136,315,absence,abnormal,125,presence,1.8,flat,no major vessel,normal,no
+64,Male,non-anginal pain,145,212,absence,normal,132,absence,2,flat,2 major vessels,normal,no
+55,Female,non-anginal pain,180,327,absence,abnormal,117,presence,3.4,flat,no major vessel,fixed defect,no
+43,Female,non-anginal pain,132,341,presence,normal,136,presence,3,flat,no major vessel,reversable defect,no
+55,Female,non-anginal pain,128,205,absence,abnormal,130,presence,2,flat,1 major vessel,reversable defect,no
+58,Female,non-anginal pain,170,225,presence,normal,146,presence,2.8,flat,2 major vessels,normal,no
+55,Male,non-anginal pain,140,217,absence,abnormal,111,presence,5.6,upsloping,no major vessel,reversable defect,no
+51,Female,non-anginal pain,130,305,absence,abnormal,142,presence,1.2,flat,no major vessel,reversable defect,no
+50,Female,typical angina,120,219,absence,abnormal,158,absence,1.6,flat,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,115,303,absence,abnormal,181,absence,1.2,flat,no major vessel,fixed defect,yes
+41,Female,atypical angina,126,306,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+49,Male,atypical angina,130,266,absence,abnormal,171,absence,0.6,downsloping,no major vessel,fixed defect,yes
+65,Male,non-anginal pain,110,248,absence,normal,158,absence,0.6,downsloping,2 major vessels,normal,no
+57,Male,non-anginal pain,152,274,absence,abnormal,88,presence,1.2,flat,1 major vessel,reversable defect,no
+48,Male,non-anginal pain,130,256,presence,normal,150,presence,0,downsloping,2 major vessels,reversable defect,no
+62,Female,non-anginal pain,138,294,presence,abnormal,106,absence,1.9,flat,3 major vessels,fixed defect,no
+61,Male,asymptomatic,134,234,absence,abnormal,145,absence,2.6,flat,2 major vessels,fixed defect,no
+59,Male,asymptomatic,178,270,absence,normal,145,absence,4.2,upsloping,no major vessel,reversable defect,yes
+69,Male,typical angina,140,254,absence,normal,146,absence,2,flat,3 major vessels,reversable defect,no
+58,Male,typical angina,132,224,absence,normal,173,absence,3.2,downsloping,2 major vessels,reversable defect,no
+38,Male,asymptomatic,120,231,absence,abnormal,182,presence,3.8,flat,no major vessel,reversable defect,no
+69,Female,asymptomatic,140,239,absence,abnormal,151,absence,1.8,downsloping,2 major vessels,fixed defect,yes
+65,Male,asymptomatic,138,282,presence,normal,174,absence,1.4,flat,1 major vessel,fixed defect,no
+45,Male,asymptomatic,110,264,absence,abnormal,132,absence,1.2,flat,no major vessel,reversable defect,no
+49,Male,atypical angina,130,266,absence,abnormal,171,absence,0.6,downsloping,no major vessel,fixed defect,yes
+45,Female,atypical angina,130,234,absence,normal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+61,Male,non-anginal pain,138,166,absence,normal,125,presence,3.6,flat,1 major vessel,fixed defect,no
+52,Male,non-anginal pain,125,212,absence,abnormal,168,absence,1,downsloping,2 major vessels,reversable defect,no
+53,Female,non-anginal pain,130,264,absence,normal,143,absence,0.4,flat,no major vessel,fixed defect,yes
+59,Female,non-anginal pain,174,249,absence,abnormal,143,presence,0,flat,no major vessel,fixed defect,no
+58,Female,typical angina,120,340,absence,abnormal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+65,Male,asymptomatic,138,282,presence,normal,174,absence,1.4,flat,1 major vessel,fixed defect,no
+58,Female,non-anginal pain,130,197,absence,abnormal,131,absence,0.6,flat,no major vessel,fixed defect,yes
+46,Female,non-anginal pain,138,243,absence,normal,152,presence,0,flat,no major vessel,fixed defect,yes
+56,Female,non-anginal pain,134,409,absence,normal,150,presence,1.9,flat,2 major vessels,reversable defect,no
+64,Male,non-anginal pain,128,263,absence,abnormal,105,presence,0.2,flat,1 major vessel,reversable defect,yes
+65,Male,non-anginal pain,120,177,absence,abnormal,140,absence,0.4,downsloping,no major vessel,reversable defect,yes
+44,Male,typical angina,120,226,absence,abnormal,169,absence,0,downsloping,no major vessel,fixed defect,yes
+50,Male,non-anginal pain,150,243,absence,normal,128,absence,2.6,flat,no major vessel,reversable defect,no
+47,Male,typical angina,108,243,absence,abnormal,152,absence,0,downsloping,no major vessel,fixed defect,no
+64,Female,non-anginal pain,130,303,absence,abnormal,122,absence,2,flat,2 major vessels,fixed defect,yes
+71,Female,non-anginal pain,112,149,absence,abnormal,125,absence,1.6,flat,no major vessel,fixed defect,yes
+45,Female,atypical angina,130,234,absence,normal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+62,Male,non-anginal pain,120,267,absence,abnormal,99,presence,1.8,flat,2 major vessels,reversable defect,no
+41,Male,atypical angina,120,157,absence,abnormal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+66,Female,asymptomatic,150,226,absence,abnormal,114,absence,2.6,upsloping,no major vessel,fixed defect,yes
+56,Male,non-anginal pain,130,283,presence,normal,103,presence,1.6,upsloping,no major vessel,reversable defect,no
+41,Female,atypical angina,126,306,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Male,atypical angina,110,235,absence,abnormal,153,absence,0,downsloping,no major vessel,fixed defect,yes
+57,Female,atypical angina,130,236,absence,normal,174,absence,0,flat,1 major vessel,fixed defect,no
+39,Female,typical angina,138,220,absence,abnormal,152,absence,0,flat,no major vessel,fixed defect,yes
+64,Male,typical angina,125,309,absence,abnormal,131,presence,1.8,flat,no major vessel,reversable defect,no
+59,Male,non-anginal pain,138,271,absence,normal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+61,Male,non-anginal pain,138,166,absence,normal,125,presence,3.6,flat,1 major vessel,fixed defect,no
+58,Male,non-anginal pain,114,318,absence,abnormal,140,absence,4.4,upsloping,3 major vessels,normal,no
+47,Male,non-anginal pain,112,204,absence,abnormal,143,absence,0.1,downsloping,no major vessel,fixed defect,yes
+58,Female,non-anginal pain,100,248,absence,normal,122,absence,1,flat,no major vessel,fixed defect,yes
+66,Female,asymptomatic,150,226,absence,abnormal,114,absence,2.6,upsloping,no major vessel,fixed defect,yes
+65,Female,typical angina,140,417,presence,normal,157,absence,0.8,downsloping,1 major vessel,fixed defect,yes
+35,Male,atypical angina,122,192,absence,abnormal,174,absence,0,downsloping,no major vessel,fixed defect,yes
+57,Male,atypical angina,124,261,absence,abnormal,141,absence,0.3,downsloping,no major vessel,reversable defect,no
+29,Male,atypical angina,130,204,absence,normal,202,absence,0,downsloping,no major vessel,fixed defect,yes
+66,Male,atypical angina,160,246,absence,abnormal,120,presence,0,flat,3 major vessels,normal,no
+61,Female,non-anginal pain,130,330,absence,normal,169,absence,0,downsloping,no major vessel,fixed defect,no
+52,Male,non-anginal pain,125,212,absence,abnormal,168,absence,1,downsloping,2 major vessels,reversable defect,no
+68,Male,typical angina,118,277,absence,abnormal,151,absence,1,downsloping,1 major vessel,reversable defect,yes
+54,Male,typical angina,120,258,absence,normal,147,absence,0.4,flat,no major vessel,reversable defect,yes
+63,Male,non-anginal pain,130,330,presence,normal,132,presence,1.8,downsloping,3 major vessels,reversable defect,no
+58,Male,non-anginal pain,100,234,absence,abnormal,156,absence,0.1,downsloping,1 major vessel,reversable defect,no
+60,Male,non-anginal pain,130,253,absence,abnormal,144,presence,1.4,downsloping,1 major vessel,reversable defect,no
+63,Male,non-anginal pain,130,254,absence,normal,147,absence,1.4,flat,1 major vessel,reversable defect,no
+41,Female,typical angina,112,268,absence,normal,172,presence,0,downsloping,no major vessel,fixed defect,yes
+68,Male,typical angina,180,274,presence,normal,150,presence,1.6,flat,no major vessel,reversable defect,no
+42,Male,atypical angina,120,295,absence,abnormal,162,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,non-anginal pain,170,326,absence,normal,140,presence,3.4,upsloping,no major vessel,reversable defect,no
+59,Male,non-anginal pain,164,176,presence,normal,90,absence,1,flat,2 major vessels,normal,no
+43,Male,non-anginal pain,120,177,absence,normal,120,presence,2.5,flat,no major vessel,reversable defect,no
+60,Male,typical angina,140,185,absence,normal,155,absence,3,flat,no major vessel,fixed defect,no
+63,Female,non-anginal pain,150,407,absence,normal,154,absence,4,flat,3 major vessels,reversable defect,no
+52,Male,non-anginal pain,128,204,presence,abnormal,156,presence,1,flat,no major vessel,,no
+58,Male,non-anginal pain,125,300,absence,normal,171,absence,0,downsloping,2 major vessels,reversable defect,no
+56,Female,non-anginal pain,200,288,presence,normal,133,presence,4,upsloping,2 major vessels,reversable defect,no
+54,Female,typical angina,135,304,presence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,typical angina,105,240,absence,normal,154,presence,0.6,flat,no major vessel,reversable defect,yes
+55,Female,atypical angina,135,250,absence,normal,161,absence,1.4,flat,no major vessel,fixed defect,yes
+53,Male,non-anginal pain,140,203,presence,normal,155,presence,3.1,upsloping,no major vessel,reversable defect,no
+63,Female,atypical angina,140,195,absence,abnormal,179,absence,0,downsloping,2 major vessels,fixed defect,yes
+39,Male,non-anginal pain,118,219,absence,abnormal,140,absence,1.2,flat,no major vessel,reversable defect,no
+35,Male,non-anginal pain,126,282,absence,normal,156,presence,0,downsloping,no major vessel,reversable defect,no
+50,Female,typical angina,120,219,absence,abnormal,158,absence,1.6,flat,no major vessel,fixed defect,yes
+67,Male,typical angina,152,212,absence,normal,150,absence,0.8,flat,no major vessel,reversable defect,no
+66,Male,non-anginal pain,112,212,absence,normal,132,presence,0.1,downsloping,1 major vessel,fixed defect,no
+35,Male,non-anginal pain,126,282,absence,normal,156,presence,0,downsloping,no major vessel,reversable defect,no
+41,Male,typical angina,130,214,absence,normal,168,absence,2,flat,no major vessel,fixed defect,yes
+35,Male,non-anginal pain,120,198,absence,abnormal,130,presence,1.6,flat,no major vessel,reversable defect,no
+71,Female,atypical angina,160,302,absence,abnormal,162,absence,0.4,downsloping,2 major vessels,fixed defect,yes
+57,Male,non-anginal pain,110,201,absence,abnormal,126,presence,1.5,flat,no major vessel,normal,yes
+51,Male,typical angina,94,227,absence,abnormal,154,presence,0,downsloping,1 major vessel,reversable defect,yes
+58,Male,non-anginal pain,128,216,absence,normal,131,presence,2.2,flat,3 major vessels,reversable defect,no
+57,Male,typical angina,128,229,absence,normal,150,absence,0.4,flat,1 major vessel,reversable defect,no
+56,Female,atypical angina,140,294,absence,normal,153,absence,1.3,flat,no major vessel,fixed defect,yes
+60,Female,typical angina,120,178,presence,abnormal,96,absence,0,downsloping,no major vessel,fixed defect,yes
+45,Male,asymptomatic,110,264,absence,abnormal,132,absence,1.2,flat,no major vessel,reversable defect,no
+56,Male,atypical angina,130,221,absence,normal,163,absence,0,downsloping,no major vessel,reversable defect,yes
+35,Male,non-anginal pain,120,198,absence,abnormal,130,presence,1.6,flat,no major vessel,reversable defect,no
+45,Female,atypical angina,112,160,absence,abnormal,138,absence,0,flat,no major vessel,fixed defect,yes
+66,Female,asymptomatic,150,226,absence,abnormal,114,absence,2.6,upsloping,no major vessel,fixed defect,yes
+51,Male,asymptomatic,125,213,absence,normal,125,presence,1.4,downsloping,1 major vessel,fixed defect,yes
+70,Male,atypical angina,156,245,absence,normal,143,absence,0,downsloping,no major vessel,fixed defect,yes
+55,Female,non-anginal pain,128,205,absence,abnormal,130,presence,2,flat,1 major vessel,reversable defect,no
+56,Male,typical angina,130,256,presence,normal,142,presence,0.6,flat,1 major vessel,normal,no
+55,Female,atypical angina,135,250,absence,normal,161,absence,1.4,flat,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,108,233,presence,abnormal,147,absence,0.1,downsloping,3 major vessels,reversable defect,yes
+64,Male,typical angina,140,335,absence,abnormal,158,absence,0,downsloping,no major vessel,fixed defect,no
+45,Male,non-anginal pain,115,260,absence,normal,185,absence,0,downsloping,no major vessel,fixed defect,yes
+67,Female,typical angina,152,277,absence,abnormal,172,absence,0,downsloping,1 major vessel,fixed defect,yes
+68,Female,typical angina,120,211,absence,normal,115,absence,1.5,flat,no major vessel,fixed defect,yes
+74,Female,atypical angina,120,269,absence,normal,121,presence,0.2,downsloping,1 major vessel,fixed defect,yes
+60,Female,non-anginal pain,150,258,absence,normal,157,absence,2.6,flat,2 major vessels,reversable defect,no
+48,Male,non-anginal pain,124,274,absence,normal,166,absence,0.5,flat,no major vessel,reversable defect,no
+56,Male,atypical angina,130,221,absence,normal,163,absence,0,downsloping,no major vessel,reversable defect,yes
+46,Male,non-anginal pain,140,311,absence,abnormal,120,presence,1.8,flat,2 major vessels,reversable defect,no
+55,Female,atypical angina,135,250,absence,normal,161,absence,1.4,flat,no major vessel,fixed defect,yes
+44,Male,atypical angina,120,220,absence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,112,230,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,no
+51,Male,typical angina,94,227,absence,abnormal,154,presence,0,downsloping,1 major vessel,reversable defect,yes
+44,Female,typical angina,108,141,absence,abnormal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,128,204,presence,abnormal,156,presence,1,flat,no major vessel,,no
+50,Male,typical angina,129,196,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,non-anginal pain,110,239,absence,normal,142,presence,1.2,flat,1 major vessel,reversable defect,no
+67,Male,non-anginal pain,120,229,absence,normal,129,presence,2.6,flat,2 major vessels,reversable defect,no
+58,Male,non-anginal pain,125,300,absence,normal,171,absence,0,downsloping,2 major vessels,reversable defect,no
+52,Male,non-anginal pain,128,255,absence,abnormal,161,presence,0,downsloping,1 major vessel,reversable defect,no
+44,Male,typical angina,140,235,absence,normal,180,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Female,typical angina,112,268,absence,normal,172,presence,0,downsloping,no major vessel,fixed defect,yes
+63,Male,non-anginal pain,130,330,presence,normal,132,presence,1.8,downsloping,3 major vessels,reversable defect,no
+58,Male,atypical angina,125,220,absence,abnormal,144,absence,0.4,flat,,reversable defect,yes
+60,Female,typical angina,102,318,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,yes
+51,Male,typical angina,100,222,absence,abnormal,143,presence,1.2,flat,no major vessel,fixed defect,yes
+64,Male,typical angina,140,335,absence,abnormal,158,absence,0,downsloping,no major vessel,fixed defect,no
+60,Male,non-anginal pain,117,230,presence,abnormal,160,presence,1.4,downsloping,2 major vessels,reversable defect,no
+44,Male,typical angina,120,226,absence,abnormal,169,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,atypical angina,125,220,absence,abnormal,144,absence,0.4,flat,,reversable defect,yes
+55,Male,atypical angina,130,262,absence,abnormal,155,absence,0,downsloping,no major vessel,fixed defect,yes
+65,Female,typical angina,160,360,absence,normal,151,absence,0.8,downsloping,no major vessel,fixed defect,yes
+48,Male,atypical angina,130,245,absence,normal,180,absence,0.2,flat,no major vessel,fixed defect,yes
+65,Male,non-anginal pain,120,177,absence,abnormal,140,absence,0.4,downsloping,no major vessel,reversable defect,yes
+51,Female,typical angina,130,256,absence,normal,149,absence,0.5,downsloping,no major vessel,fixed defect,yes
+48,Male,typical angina,124,255,presence,abnormal,175,absence,0,downsloping,2 major vessels,fixed defect,yes
+64,Male,non-anginal pain,120,246,absence,normal,96,presence,2.2,upsloping,1 major vessel,fixed defect,no
+66,Male,non-anginal pain,160,228,absence,normal,138,absence,2.3,downsloping,no major vessel,normal,yes
+46,Female,atypical angina,105,204,absence,abnormal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+61,Female,non-anginal pain,130,330,absence,normal,169,absence,0,downsloping,no major vessel,fixed defect,no
+57,Male,non-anginal pain,150,276,absence,normal,112,presence,0.6,flat,1 major vessel,normal,no
+49,Female,non-anginal pain,130,269,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+56,Male,atypical angina,130,221,absence,normal,163,absence,0,downsloping,no major vessel,reversable defect,yes
+58,Female,asymptomatic,150,283,presence,normal,162,absence,1,downsloping,no major vessel,fixed defect,yes
+63,Male,non-anginal pain,140,187,absence,normal,144,presence,4,downsloping,2 major vessels,reversable defect,no
+57,Male,non-anginal pain,110,335,absence,abnormal,143,presence,3,flat,1 major vessel,reversable defect,no
+57,Male,non-anginal pain,110,335,absence,abnormal,143,presence,3,flat,1 major vessel,reversable defect,no
+68,Male,non-anginal pain,144,193,presence,abnormal,141,absence,3.4,flat,2 major vessels,reversable defect,no
+46,Male,atypical angina,101,197,presence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+71,Female,typical angina,110,265,presence,normal,130,absence,0,downsloping,1 major vessel,fixed defect,yes
+41,Male,atypical angina,135,203,absence,abnormal,132,absence,0,flat,no major vessel,normal,yes
+45,Female,non-anginal pain,138,236,absence,normal,152,presence,0.2,flat,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,150,244,absence,abnormal,154,presence,1.4,flat,no major vessel,fixed defect,no
+65,Female,non-anginal pain,150,225,absence,normal,114,absence,1,flat,3 major vessels,reversable defect,no
+48,Female,typical angina,130,275,absence,abnormal,139,absence,0.2,downsloping,no major vessel,fixed defect,yes
+51,Male,typical angina,100,222,absence,abnormal,143,presence,1.2,flat,no major vessel,fixed defect,yes
+61,Female,non-anginal pain,145,307,absence,normal,146,presence,1,flat,no major vessel,reversable defect,no
+53,Male,non-anginal pain,123,282,absence,abnormal,95,presence,2,flat,2 major vessels,reversable defect,no
+59,Male,asymptomatic,134,204,absence,abnormal,162,absence,0.8,downsloping,2 major vessels,fixed defect,no
+34,Female,atypical angina,118,210,absence,abnormal,192,absence,0.7,downsloping,no major vessel,fixed defect,yes
+44,Male,non-anginal pain,120,169,absence,abnormal,144,presence,2.8,upsloping,no major vessel,normal,no
+58,Male,non-anginal pain,146,218,absence,abnormal,105,absence,2,flat,1 major vessel,reversable defect,no
+64,Female,non-anginal pain,130,303,absence,abnormal,122,absence,2,flat,2 major vessels,fixed defect,yes
+56,Male,atypical angina,120,240,absence,abnormal,169,absence,0,upsloping,no major vessel,fixed defect,yes
+54,Male,typical angina,150,232,absence,normal,165,absence,1.6,downsloping,no major vessel,reversable defect,yes
+55,Male,non-anginal pain,160,289,absence,normal,145,presence,0.8,flat,1 major vessel,reversable defect,no
+67,Male,non-anginal pain,125,254,presence,abnormal,163,absence,0.2,flat,2 major vessels,reversable defect,no
+51,Male,non-anginal pain,140,298,absence,abnormal,122,presence,4.2,flat,3 major vessels,reversable defect,no
+62,Female,non-anginal pain,138,294,presence,abnormal,106,absence,1.9,flat,3 major vessels,fixed defect,no
+62,Male,atypical angina,120,281,absence,normal,103,absence,1.4,flat,1 major vessel,reversable defect,no
+54,Male,non-anginal pain,110,239,absence,abnormal,126,presence,2.8,flat,1 major vessel,reversable defect,no
+54,Male,non-anginal pain,110,239,absence,abnormal,126,presence,2.8,flat,1 major vessel,reversable defect,no
+68,Male,non-anginal pain,144,193,presence,abnormal,141,absence,3.4,flat,2 major vessels,reversable defect,no
+60,Female,typical angina,120,178,presence,abnormal,96,absence,0,downsloping,no major vessel,fixed defect,yes
+61,Male,asymptomatic,134,234,absence,abnormal,145,absence,2.6,flat,2 major vessels,fixed defect,no
+62,Male,atypical angina,128,208,presence,normal,140,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Male,atypical angina,135,203,absence,abnormal,132,absence,0,flat,no major vessel,normal,yes
+65,Female,non-anginal pain,150,225,absence,normal,114,absence,1,flat,3 major vessels,reversable defect,no
+59,Male,asymptomatic,170,288,absence,normal,159,absence,0.2,flat,no major vessel,reversable defect,no
+43,Male,non-anginal pain,115,303,absence,abnormal,181,absence,1.2,flat,no major vessel,fixed defect,yes
+67,Male,non-anginal pain,120,229,absence,normal,129,presence,2.6,flat,2 major vessels,reversable defect,no
+63,Male,asymptomatic,145,233,presence,normal,150,absence,2.3,upsloping,no major vessel,normal,yes
+63,Female,non-anginal pain,124,197,absence,abnormal,136,presence,0,flat,no major vessel,fixed defect,no
+52,Male,non-anginal pain,112,230,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,no
+58,Female,non-anginal pain,130,197,absence,abnormal,131,absence,0.6,flat,no major vessel,fixed defect,yes
+53,Male,non-anginal pain,142,226,absence,normal,111,presence,0,downsloping,no major vessel,reversable defect,yes
+57,Male,non-anginal pain,150,276,absence,normal,112,presence,0.6,flat,1 major vessel,normal,no
+44,Male,typical angina,130,233,absence,abnormal,179,presence,0.4,downsloping,no major vessel,fixed defect,yes
+51,Male,typical angina,94,227,absence,abnormal,154,presence,0,downsloping,1 major vessel,reversable defect,yes
+54,Female,typical angina,110,214,absence,abnormal,158,absence,1.6,flat,no major vessel,fixed defect,yes
+40,Male,non-anginal pain,110,167,absence,normal,114,presence,2,flat,no major vessel,reversable defect,no
+57,Male,atypical angina,124,261,absence,abnormal,141,absence,0.3,downsloping,no major vessel,reversable defect,no
+62,Female,non-anginal pain,140,268,absence,normal,160,absence,3.6,upsloping,2 major vessels,fixed defect,no
+53,Male,non-anginal pain,140,203,presence,normal,155,presence,3.1,upsloping,no major vessel,reversable defect,no
+62,Male,atypical angina,128,208,presence,normal,140,absence,0,downsloping,no major vessel,fixed defect,yes
+58,Male,typical angina,105,240,absence,normal,154,presence,0.6,flat,no major vessel,reversable defect,yes
+70,Male,atypical angina,156,245,absence,normal,143,absence,0,downsloping,no major vessel,fixed defect,yes
+45,Male,non-anginal pain,115,260,absence,normal,185,absence,0,downsloping,no major vessel,fixed defect,yes
+42,Male,asymptomatic,148,244,absence,normal,178,absence,0.8,downsloping,2 major vessels,fixed defect,yes
+58,Female,non-anginal pain,170,225,presence,normal,146,presence,2.8,flat,2 major vessels,normal,no
+61,Male,non-anginal pain,140,207,absence,normal,138,presence,1.9,downsloping,1 major vessel,reversable defect,no
+62,Female,non-anginal pain,140,268,absence,normal,160,absence,3.6,upsloping,2 major vessels,fixed defect,no
+60,Male,non-anginal pain,130,253,absence,abnormal,144,presence,1.4,downsloping,1 major vessel,reversable defect,no
+54,Male,non-anginal pain,140,239,absence,abnormal,160,absence,1.2,downsloping,no major vessel,fixed defect,yes
+61,Male,non-anginal pain,138,166,absence,normal,125,presence,3.6,flat,1 major vessel,fixed defect,no
+63,Female,typical angina,135,252,absence,normal,172,absence,0,downsloping,no major vessel,fixed defect,yes
+42,Male,typical angina,130,180,absence,abnormal,150,absence,0,downsloping,no major vessel,fixed defect,yes
+57,Male,typical angina,128,229,absence,normal,150,absence,0.4,flat,1 major vessel,reversable defect,no
+44,Male,typical angina,130,233,absence,abnormal,179,presence,0.4,downsloping,no major vessel,fixed defect,yes
+54,Male,non-anginal pain,124,266,absence,normal,109,presence,2.2,flat,1 major vessel,reversable defect,no
+51,Male,typical angina,100,222,absence,abnormal,143,presence,1.2,flat,no major vessel,fixed defect,yes
+58,Male,atypical angina,125,220,absence,abnormal,144,absence,0.4,flat,,reversable defect,yes
+68,Male,typical angina,118,277,absence,abnormal,151,absence,1,downsloping,1 major vessel,reversable defect,yes
+55,Male,non-anginal pain,140,217,absence,abnormal,111,presence,5.6,upsloping,no major vessel,reversable defect,no
+42,Male,non-anginal pain,136,315,absence,abnormal,125,presence,1.8,flat,no major vessel,normal,no
+49,Male,typical angina,118,149,absence,normal,126,absence,0.8,downsloping,3 major vessels,fixed defect,no
+53,Female,non-anginal pain,138,234,absence,normal,160,absence,0,downsloping,no major vessel,fixed defect,yes
+52,Male,typical angina,172,199,presence,abnormal,162,absence,0.5,downsloping,no major vessel,reversable defect,yes
+51,Male,asymptomatic,125,213,absence,normal,125,presence,1.4,downsloping,1 major vessel,fixed defect,yes
+51,Male,non-anginal pain,140,261,absence,normal,186,presence,0,downsloping,no major vessel,fixed defect,yes
+70,Male,non-anginal pain,145,174,absence,abnormal,125,presence,2.6,upsloping,no major vessel,reversable defect,no
+35,Female,non-anginal pain,138,183,absence,abnormal,182,absence,1.4,downsloping,no major vessel,fixed defect,yes
+58,Male,typical angina,112,230,absence,normal,165,absence,2.5,flat,1 major vessel,reversable defect,no
+59,Male,asymptomatic,160,273,absence,normal,125,absence,0,downsloping,no major vessel,fixed defect,no
+60,Male,non-anginal pain,140,293,absence,normal,170,absence,1.2,flat,2 major vessels,reversable defect,no
+56,Male,non-anginal pain,132,184,absence,normal,105,presence,2.1,flat,1 major vessel,normal,no
+35,Female,non-anginal pain,138,183,absence,abnormal,182,absence,1.4,downsloping,no major vessel,fixed defect,yes
+61,Male,non-anginal pain,138,166,absence,normal,125,presence,3.6,flat,1 major vessel,fixed defect,no
+58,Female,asymptomatic,150,283,presence,normal,162,absence,1,downsloping,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,128,255,absence,abnormal,161,presence,0,downsloping,1 major vessel,reversable defect,no
+58,Male,atypical angina,120,284,absence,normal,160,absence,1.8,flat,no major vessel,fixed defect,no
+37,Male,typical angina,130,250,absence,abnormal,187,absence,3.5,upsloping,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,128,255,absence,abnormal,161,presence,0,downsloping,1 major vessel,reversable defect,no
+67,Male,non-anginal pain,120,229,absence,normal,129,presence,2.6,flat,2 major vessels,reversable defect,no
+65,Male,asymptomatic,138,282,presence,normal,174,absence,1.4,flat,1 major vessel,fixed defect,no
+46,Male,atypical angina,101,197,presence,abnormal,156,absence,0,downsloping,no major vessel,reversable defect,yes
+68,Female,typical angina,120,211,absence,normal,115,absence,1.5,flat,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,115,303,absence,abnormal,181,absence,1.2,flat,no major vessel,fixed defect,yes
+68,Female,typical angina,120,211,absence,normal,115,absence,1.5,flat,no major vessel,fixed defect,yes
+51,Male,non-anginal pain,140,299,absence,abnormal,173,presence,1.6,downsloping,no major vessel,reversable defect,no
+52,Male,non-anginal pain,112,230,absence,abnormal,160,absence,0,downsloping,1 major vessel,fixed defect,no
+64,Male,typical angina,140,335,absence,abnormal,158,absence,0,downsloping,no major vessel,fixed defect,no
+59,Male,asymptomatic,170,288,absence,normal,159,absence,0.2,flat,no major vessel,reversable defect,no
+52,Male,non-anginal pain,125,212,absence,abnormal,168,absence,1,downsloping,2 major vessels,reversable defect,no
+59,Male,asymptomatic,160,273,absence,normal,125,absence,0,downsloping,no major vessel,fixed defect,no
+60,Female,asymptomatic,150,240,absence,abnormal,171,absence,0.9,downsloping,no major vessel,fixed defect,yes
+41,Male,typical angina,112,250,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+41,Male,atypical angina,110,235,absence,abnormal,153,absence,0,downsloping,no major vessel,fixed defect,yes
+56,Male,atypical angina,120,240,absence,abnormal,169,absence,0,upsloping,no major vessel,fixed defect,yes
+56,Male,atypical angina,120,236,absence,abnormal,178,absence,0.8,downsloping,no major vessel,fixed defect,yes
+48,Female,typical angina,130,275,absence,abnormal,139,absence,0.2,downsloping,no major vessel,fixed defect,yes
+39,Male,typical angina,140,321,absence,normal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+64,Male,asymptomatic,170,227,absence,normal,155,absence,0.6,flat,no major vessel,reversable defect,yes
+57,Male,non-anginal pain,140,192,absence,abnormal,148,absence,0.4,flat,no major vessel,normal,yes
+59,Male,asymptomatic,160,273,absence,normal,125,absence,0,downsloping,no major vessel,fixed defect,no
+60,Male,non-anginal pain,130,206,absence,normal,132,presence,2.4,flat,2 major vessels,reversable defect,no
+61,Male,non-anginal pain,140,207,absence,normal,138,presence,1.9,downsloping,1 major vessel,reversable defect,no
+43,Female,typical angina,122,213,absence,abnormal,165,absence,0.2,flat,no major vessel,fixed defect,yes
+54,Male,non-anginal pain,120,188,absence,abnormal,113,absence,1.4,flat,1 major vessel,reversable defect,no
+59,Male,non-anginal pain,138,271,absence,normal,182,absence,0,downsloping,no major vessel,fixed defect,yes
+57,Male,non-anginal pain,132,207,absence,abnormal,168,presence,0,downsloping,no major vessel,reversable defect,yes
+57,Male,atypical angina,154,232,absence,normal,164,absence,0,downsloping,1 major vessel,fixed defect,no
+57,Male,non-anginal pain,130,131,absence,abnormal,115,presence,1.2,flat,1 major vessel,reversable defect,no
+48,Male,non-anginal pain,124,274,absence,normal,166,absence,0.5,flat,no major vessel,reversable defect,no
+70,Male,non-anginal pain,145,174,absence,abnormal,125,presence,2.6,upsloping,no major vessel,reversable defect,no
+57,Male,non-anginal pain,165,289,presence,normal,124,absence,1,flat,3 major vessels,reversable defect,no
+61,Male,non-anginal pain,120,260,absence,abnormal,140,presence,3.6,flat,1 major vessel,reversable defect,no
+57,Male,non-anginal pain,110,201,absence,abnormal,126,presence,1.5,flat,no major vessel,normal,yes
+60,Female,non-anginal pain,150,258,absence,normal,157,absence,2.6,flat,2 major vessels,reversable defect,no
+63,Female,non-anginal pain,150,407,absence,normal,154,absence,4,flat,3 major vessels,reversable defect,no
+55,Female,non-anginal pain,128,205,absence,abnormal,130,presence,2,flat,1 major vessel,reversable defect,no
+64,Female,non-anginal pain,180,325,absence,abnormal,154,presence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,non-anginal pain,110,239,absence,abnormal,126,presence,2.8,flat,1 major vessel,reversable defect,no
+52,Male,non-anginal pain,128,204,presence,abnormal,156,presence,1,flat,no major vessel,,no
+51,Male,non-anginal pain,140,299,absence,abnormal,173,presence,1.6,downsloping,no major vessel,reversable defect,no
+62,Female,typical angina,130,263,absence,abnormal,97,absence,1.2,flat,1 major vessel,reversable defect,no
+59,Male,asymptomatic,178,270,absence,normal,145,absence,4.2,upsloping,no major vessel,reversable defect,yes
+52,Male,atypical angina,134,201,absence,abnormal,158,absence,0.8,downsloping,1 major vessel,fixed defect,yes
+42,Female,non-anginal pain,102,265,absence,normal,122,absence,0.6,flat,no major vessel,fixed defect,yes
+59,Male,non-anginal pain,135,234,absence,abnormal,161,absence,0.5,flat,no major vessel,reversable defect,yes
+61,Male,asymptomatic,134,234,absence,abnormal,145,absence,2.6,flat,2 major vessels,fixed defect,no
+42,Female,non-anginal pain,102,265,absence,normal,122,absence,0.6,flat,no major vessel,fixed defect,yes
+62,Female,non-anginal pain,140,268,absence,normal,160,absence,3.6,upsloping,2 major vessels,fixed defect,no
+59,Male,typical angina,126,218,presence,abnormal,134,absence,2.2,flat,1 major vessel,normal,no
+55,Male,atypical angina,130,262,absence,abnormal,155,absence,0,downsloping,no major vessel,fixed defect,yes
+64,Male,non-anginal pain,120,246,absence,normal,96,presence,2.2,upsloping,1 major vessel,fixed defect,no
+42,Male,non-anginal pain,140,226,absence,abnormal,178,absence,0,downsloping,no major vessel,fixed defect,yes
+50,Female,atypical angina,120,244,absence,abnormal,162,absence,1.1,downsloping,no major vessel,fixed defect,yes
+62,Male,non-anginal pain,120,267,absence,abnormal,99,presence,1.8,flat,2 major vessels,reversable defect,no
+50,Male,non-anginal pain,144,200,absence,normal,126,presence,0.9,flat,no major vessel,reversable defect,no
+50,Male,typical angina,140,233,absence,abnormal,163,absence,0.6,flat,1 major vessel,reversable defect,no
+58,Female,atypical angina,136,319,presence,normal,152,absence,0,downsloping,2 major vessels,fixed defect,no
+35,Male,non-anginal pain,120,198,absence,abnormal,130,presence,1.6,flat,no major vessel,reversable defect,no
+45,Male,non-anginal pain,104,208,absence,normal,148,presence,3,flat,no major vessel,fixed defect,yes
+66,Male,non-anginal pain,112,212,absence,normal,132,presence,0.1,downsloping,1 major vessel,fixed defect,no
+46,Male,non-anginal pain,120,249,absence,normal,144,absence,0.8,downsloping,no major vessel,reversable defect,no
+65,Male,non-anginal pain,135,254,absence,normal,127,absence,2.8,flat,1 major vessel,reversable defect,no
+47,Male,typical angina,130,253,absence,abnormal,179,absence,0,downsloping,no major vessel,fixed defect,yes
+59,Male,asymptomatic,134,204,absence,abnormal,162,absence,0.8,downsloping,2 major vessels,fixed defect,no
+38,Male,asymptomatic,120,231,absence,abnormal,182,presence,3.8,flat,no major vessel,reversable defect,no
+39,Male,non-anginal pain,118,219,absence,abnormal,140,absence,1.2,flat,no major vessel,reversable defect,no
+58,Male,non-anginal pain,146,218,absence,abnormal,105,absence,2,flat,1 major vessel,reversable defect,no
+44,Male,atypical angina,120,263,absence,abnormal,173,absence,0,downsloping,no major vessel,reversable defect,yes
+54,Male,non-anginal pain,140,239,absence,abnormal,160,absence,1.2,downsloping,no major vessel,fixed defect,yes
+61,Female,non-anginal pain,130,330,absence,normal,169,absence,0,downsloping,no major vessel,fixed defect,no
+57,Male,non-anginal pain,130,131,absence,abnormal,115,presence,1.2,flat,1 major vessel,reversable defect,no
+54,Male,non-anginal pain,110,206,absence,normal,108,presence,0,flat,1 major vessel,fixed defect,no
+42,Male,typical angina,120,240,presence,abnormal,194,absence,0.8,upsloping,no major vessel,reversable defect,yes
+54,Male,non-anginal pain,124,266,absence,normal,109,presence,2.2,flat,1 major vessel,reversable defect,no
+60,Male,non-anginal pain,130,206,absence,normal,132,presence,2.4,flat,2 major vessels,reversable defect,no
+65,Male,non-anginal pain,135,254,absence,normal,127,absence,2.8,flat,1 major vessel,reversable defect,no
+40,Male,non-anginal pain,152,223,absence,abnormal,181,absence,0,downsloping,no major vessel,reversable defect,no
+51,Female,typical angina,140,308,absence,normal,142,absence,1.5,downsloping,1 major vessel,fixed defect,yes
+38,Male,asymptomatic,120,231,absence,abnormal,182,presence,3.8,flat,no major vessel,reversable defect,no
+42,Male,typical angina,130,180,absence,abnormal,150,absence,0,downsloping,no major vessel,fixed defect,yes
+56,Male,atypical angina,120,240,absence,abnormal,169,absence,0,upsloping,no major vessel,fixed defect,yes
+43,Male,typical angina,130,315,absence,abnormal,162,absence,1.9,downsloping,1 major vessel,fixed defect,yes
+64,Male,typical angina,140,335,absence,abnormal,158,absence,0,downsloping,no major vessel,fixed defect,no
+53,Male,non-anginal pain,142,226,absence,normal,111,presence,0,downsloping,no major vessel,reversable defect,yes
+49,Female,atypical angina,134,271,absence,abnormal,162,absence,0,flat,no major vessel,fixed defect,yes
+57,Female,non-anginal pain,140,241,absence,abnormal,123,presence,0.2,flat,no major vessel,reversable defect,no
+52,Female,typical angina,136,196,absence,normal,169,absence,0.1,flat,no major vessel,fixed defect,yes
+69,Female,asymptomatic,140,239,absence,abnormal,151,absence,1.8,downsloping,2 major vessels,fixed defect,yes
+65,Male,non-anginal pain,120,177,absence,abnormal,140,absence,0.4,downsloping,no major vessel,reversable defect,yes
+66,Female,non-anginal pain,178,228,presence,abnormal,165,presence,1,flat,2 major vessels,reversable defect,no
+56,Male,asymptomatic,120,193,absence,normal,162,absence,1.9,flat,no major vessel,reversable defect,yes
+67,Female,typical angina,152,277,absence,abnormal,172,absence,0,downsloping,1 major vessel,fixed defect,yes
+54,Female,typical angina,160,201,absence,abnormal,163,absence,0,downsloping,1 major vessel,fixed defect,yes
+70,Male,non-anginal pain,145,174,absence,abnormal,125,presence,2.6,upsloping,no major vessel,reversable defect,no
+57,Male,non-anginal pain,132,207,absence,abnormal,168,presence,0,downsloping,no major vessel,reversable defect,yes
+67,Male,non-anginal pain,160,286,absence,normal,108,presence,1.5,flat,3 major vessels,fixed defect,no
+62,Female,typical angina,130,263,absence,abnormal,97,absence,1.2,flat,1 major vessel,reversable defect,no
+54,Female,typical angina,135,304,presence,abnormal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+45,Female,non-anginal pain,138,236,absence,normal,152,presence,0.2,flat,no major vessel,fixed defect,yes
+53,Female,non-anginal pain,130,264,absence,normal,143,absence,0.4,flat,no major vessel,fixed defect,yes
+62,Male,typical angina,130,231,absence,abnormal,146,absence,1.8,flat,3 major vessels,reversable defect,yes
+49,Female,non-anginal pain,130,269,absence,abnormal,163,absence,0,downsloping,no major vessel,fixed defect,yes
+50,Male,typical angina,140,233,absence,abnormal,163,absence,0.6,flat,1 major vessel,reversable defect,no
+65,Female,typical angina,140,417,presence,normal,157,absence,0.8,downsloping,1 major vessel,fixed defect,yes
+69,Female,asymptomatic,140,239,absence,abnormal,151,absence,1.8,downsloping,2 major vessels,fixed defect,yes
+52,Female,typical angina,136,196,absence,normal,169,absence,0.1,flat,no major vessel,fixed defect,yes
+58,Female,non-anginal pain,100,248,absence,normal,122,absence,1,flat,no major vessel,fixed defect,yes
+52,Male,non-anginal pain,108,233,presence,abnormal,147,absence,0.1,downsloping,3 major vessels,reversable defect,yes
+57,Female,non-anginal pain,140,241,absence,abnormal,123,presence,0.2,flat,no major vessel,reversable defect,no
+44,Female,typical angina,108,141,absence,abnormal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+76,Female,typical angina,140,197,absence,abnormal,116,absence,1.1,flat,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,128,259,absence,normal,130,presence,3,flat,2 major vessels,reversable defect,no
+60,Female,typical angina,120,178,presence,abnormal,96,absence,0,downsloping,no major vessel,fixed defect,yes
+53,Male,non-anginal pain,140,203,presence,normal,155,presence,3.1,upsloping,no major vessel,reversable defect,no
+52,Male,atypical angina,120,325,absence,abnormal,172,absence,0.2,downsloping,no major vessel,fixed defect,yes
+38,Male,typical angina,138,175,absence,abnormal,173,absence,0,downsloping,,fixed defect,yes
+52,Male,typical angina,172,199,presence,abnormal,162,absence,0.5,downsloping,no major vessel,reversable defect,yes
+52,Male,asymptomatic,118,186,absence,normal,190,absence,0,flat,no major vessel,normal,yes
+51,Male,typical angina,125,245,presence,normal,166,absence,2.4,flat,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,110,211,absence,abnormal,161,absence,0,downsloping,no major vessel,reversable defect,yes
+39,Male,non-anginal pain,118,219,absence,abnormal,140,absence,1.2,flat,no major vessel,reversable defect,no
+63,Female,non-anginal pain,108,269,absence,abnormal,169,presence,1.8,flat,2 major vessels,fixed defect,no
+52,Male,atypical angina,128,205,presence,abnormal,184,absence,0,downsloping,no major vessel,fixed defect,yes
+44,Male,non-anginal pain,110,197,absence,normal,177,absence,0,downsloping,1 major vessel,fixed defect,no
+45,Male,non-anginal pain,142,309,absence,normal,147,presence,0,flat,3 major vessels,reversable defect,no
+57,Male,non-anginal pain,140,192,absence,abnormal,148,absence,0.4,flat,no major vessel,normal,yes
+39,Male,non-anginal pain,118,219,absence,abnormal,140,absence,1.2,flat,no major vessel,reversable defect,no
+67,Female,non-anginal pain,106,223,absence,abnormal,142,absence,0.3,downsloping,2 major vessels,fixed defect,yes
+64,Male,non-anginal pain,128,263,absence,abnormal,105,presence,0.2,flat,1 major vessel,reversable defect,yes
+59,Male,non-anginal pain,135,234,absence,abnormal,161,absence,0.5,flat,no major vessel,reversable defect,yes
+62,Male,typical angina,130,231,absence,abnormal,146,absence,1.8,flat,3 major vessels,reversable defect,yes
+55,Female,non-anginal pain,180,327,absence,abnormal,117,presence,3.4,flat,no major vessel,fixed defect,no
+57,Male,atypical angina,154,232,absence,normal,164,absence,0,downsloping,1 major vessel,fixed defect,no
+60,Male,non-anginal pain,140,293,absence,normal,170,absence,1.2,flat,2 major vessels,reversable defect,no
+71,Female,atypical angina,160,302,absence,abnormal,162,absence,0.4,downsloping,2 major vessels,fixed defect,yes
+56,Male,atypical angina,120,236,absence,abnormal,178,absence,0.8,downsloping,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,117,230,presence,abnormal,160,presence,1.4,downsloping,2 major vessels,reversable defect,no
+50,Female,non-anginal pain,110,254,absence,normal,159,absence,0,downsloping,no major vessel,fixed defect,yes
+43,Male,non-anginal pain,132,247,presence,normal,143,presence,0.1,flat,,reversable defect,no
+59,Male,non-anginal pain,110,239,absence,normal,142,presence,1.2,flat,1 major vessel,reversable defect,no
+44,Male,atypical angina,120,263,absence,abnormal,173,absence,0,downsloping,no major vessel,reversable defect,yes
+56,Female,non-anginal pain,134,409,absence,normal,150,presence,1.9,flat,2 major vessels,reversable defect,no
+54,Male,non-anginal pain,120,188,absence,abnormal,113,absence,1.4,flat,1 major vessel,reversable defect,no
+42,Male,non-anginal pain,136,315,absence,abnormal,125,presence,1.8,flat,no major vessel,normal,no
+67,Male,non-anginal pain,125,254,presence,abnormal,163,absence,0.2,flat,2 major vessels,reversable defect,no
+64,Male,non-anginal pain,145,212,absence,normal,132,absence,2,flat,2 major vessels,normal,no
+42,Male,non-anginal pain,140,226,absence,abnormal,178,absence,0,downsloping,no major vessel,fixed defect,yes
+66,Male,non-anginal pain,112,212,absence,normal,132,presence,0.1,downsloping,1 major vessel,fixed defect,no
+52,Male,non-anginal pain,108,233,presence,abnormal,147,absence,0.1,downsloping,3 major vessels,reversable defect,yes
+51,Female,typical angina,140,308,absence,normal,142,absence,1.5,downsloping,1 major vessel,fixed defect,yes
+55,Female,non-anginal pain,128,205,absence,abnormal,130,presence,2,flat,1 major vessel,reversable defect,no
+58,Male,typical angina,140,211,presence,normal,165,absence,0,downsloping,no major vessel,fixed defect,yes
+56,Male,asymptomatic,120,193,absence,normal,162,absence,1.9,flat,no major vessel,reversable defect,yes
+42,Male,atypical angina,120,295,absence,abnormal,162,absence,0,downsloping,no major vessel,fixed defect,yes
+40,Male,non-anginal pain,152,223,absence,abnormal,181,absence,0,downsloping,no major vessel,reversable defect,no
+51,Male,non-anginal pain,140,299,absence,abnormal,173,presence,1.6,downsloping,no major vessel,reversable defect,no
+45,Male,atypical angina,128,308,absence,normal,170,absence,0,downsloping,no major vessel,fixed defect,yes
+48,Male,atypical angina,110,229,absence,abnormal,168,absence,1,upsloping,no major vessel,reversable defect,no
+58,Male,non-anginal pain,114,318,absence,abnormal,140,absence,4.4,upsloping,3 major vessels,normal,no
+44,Female,typical angina,108,141,absence,abnormal,175,absence,0.6,flat,no major vessel,fixed defect,yes
+58,Male,non-anginal pain,128,216,absence,normal,131,presence,2.2,flat,3 major vessels,reversable defect,no
+65,Male,asymptomatic,138,282,presence,normal,174,absence,1.4,flat,1 major vessel,fixed defect,no
+53,Male,non-anginal pain,123,282,absence,abnormal,95,presence,2,flat,2 major vessels,reversable defect,no
+41,Male,non-anginal pain,110,172,absence,normal,158,absence,0,downsloping,no major vessel,reversable defect,no
+47,Male,non-anginal pain,112,204,absence,abnormal,143,absence,0.1,downsloping,no major vessel,fixed defect,yes
+59,Male,atypical angina,140,,absence,abnormal,164,presence,0,downsloping,no major vessel,fixed defect,yes
+60,Male,non-anginal pain,125,258,absence,normal,141,presence,2.8,flat,1 major vessel,reversable defect,no
+47,Male,non-anginal pain,110,275,absence,normal,118,presence,1,flat,1 major vessel,fixed defect,no
+50,Female,non-anginal pain,110,nothing,absence,normal,159,absence,0,downsloping,no major vessel,fixed defect,yes
+54,Male,non-anginal pain,120,188,absence,abnormal,113,absence,1.4,flat,1 major vessel,reversable defect,no
