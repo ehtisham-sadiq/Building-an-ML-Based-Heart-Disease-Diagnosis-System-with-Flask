@@ -1,0 +1,38 @@
+Building an ML-Based Heart Disease Diagnosis System with Streamlit 
+
+
+Step 1:
+- Set up the Github Repo.
+- Create an virtual environment
+	- python3 -m venv myenv
+	- source myenv/bin/activate
+- First Commit
+- Setup and requirements.txt
+	- setup.py
+	- requirements.txt
+- Push all the code to github
+
+
+Step 2: Project Structure, Logging And Exception Handling
+	- Project Structure Components
+	- Pipelines 
+	- Project Exception Handling Code
+	- Project Logging Module Implementation
+	- Testing Logging And Exception Handling
+
+Step 3: EDA and Model Training
+	- Problem Statement 
+	- EDA And Feature Engineering 
+	- Model Training
+	- Git Commit
+	- Data Transformation Config
+	- Create Data Transformer using Pipeline
+	- Initiate Data Transformation
+	- Test Data Transformation and Ingestion
+	- Model Training
+	- Hyper-paramet tuning
+	- Project-Create Prediction Pipeline Using Flask Web APP
+	- Project-Deployment In AWS Cloud Using CICD Pipelines
+
+
+A group of unlikely heroes embarks on an epic journey, facing danger and uncovering ancient mysteries along the way, in this thrilling adventure.
