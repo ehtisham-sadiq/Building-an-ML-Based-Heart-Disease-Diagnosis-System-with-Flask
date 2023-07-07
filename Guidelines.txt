@@ -25,7 +25,9 @@ Step 3: EDA and Model Training
 	- EDA And Feature Engineering 
 	- Model Training
 	- Git Commit
-	- Data Transformation Config
+Step 4: Data Transformation Config
+
+
 	- Create Data Transformer using Pipeline
 	- Initiate Data Transformation
 	- Test Data Transformation and Ingestion
@@ -35,19 +37,6 @@ Step 3: EDA and Model Training
 	- Project-Deployment In AWS Cloud Using CICD Pipelines
 
 
-A group of unlikely heroes embarks on an epic journey, facing danger and uncovering ancient mysteries along the way, in this thrilling adventure.
 
 
-====================
 
-- 9 bjy online meeting and its Slides.
-- ML assignment 
-- HCI assignments 
-- Fast Girl Project
-
-
-Hi Fatima,
-I hope you're doing well. I'm reaching out as a ML engineer currently working at Vacon.AI. If i2c has any open positions in the data science, ML, or AI field, I would be interested in exploring potential opportunities. 
-
-Thanks,
-Ehtisham Sadiq
